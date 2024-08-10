@@ -11,499 +11,495 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: The Origins of Hacker Culture [zBE9_kTFIro].mp4
-Video File: The Origins of Hacker Culture [zBE9_kTFIro].mp4
+Audio File: original/The Origins of Hacker Culture.mp4
+Video File: original/The Origins of Hacker Culture.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 433
-Active Line: 434
-Video Position: 6579
+Scroll Position: 71
+Active Line: 118
+Video Position: 8809
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Gantari 34-furigana,Gantari SemiBold,17,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-Style: Lora 50-furigana,Lora SemiBold,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-Style: Gantari 40-furigana,Gantari SemiBold,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-Style: Roboto 40-furigana,Roboto,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
-Style: 黑 30-furigana,Noto Sans SC Medium,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,20,50,20,1
-Style: 黑 40-furigana,思源黑体 Medium,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,7,20,50,20,1
-Style: 黑 60-furigana,Noto Sans SC Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.15,0,2,10,10,10,1
-Style: 宋 60-furigana,思源宋体 Heavy,30,&H00FFFFFF,&H000000FF,&HFF000000,&HFF000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: 宋 60,思源宋体 Heavy,60,&H00FFFFFF,&H000000FF,&HFF000000,&HFF000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: 黑 60,Noto Sans SC Medium,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,10,10,40,1
-Style: 黑 40,思源黑体 Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,20,50,20,1
-Style: 黑 30,Noto Sans SC Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,20,50,20,1
-Style: 黑 60 带小字,Noto Sans SC Medium,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,10,10,40,1
-Style: 黑 60 带小字-furigana,Noto Sans SC SemiBold,40,&H00F5D9FF,&H000000FF,&H002A0038,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,10,10,0,1
-Style: Roboto 40,Roboto,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: Lora 50,Lora SemiBold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: Gantari 34,Gantari SemiBold,34,&H00F5D9FF,&H00F5D9FF,&H002A0038,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: 黑 60 紫,Noto Sans SC Medium,60,&H00F5D9FF,&H00F5D9FF,&H002A0038,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,10,10,40,1
+Style: 原文 Lora-furigana,Lora Medium,20,&H00F5D9FF,&H00F5D9FF,&H002A0038,&H00000000,0,0,0,0,100,100,0,0,1,1.15,0,2,10,10,10,1
+Style: 原文 Gantari-furigana,Gantari SemiBold,20,&H00F5D9FF,&H00F5D9FF,&H002A0038,&H00000000,0,0,0,0,100,100,0,0,1,1.15,0,2,10,10,10,1
+Style: 注释-furigana,思源黑体 Medium,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.25,0,7,20,50,20,1
+Style: 翻译 宋-furigana,Noto Serif SC SemiBold,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.35,0,2,10,10,44,1
+Style: 翻译 黑 带小字-furigana,Noto Sans SC ExtraBold,45,&H00F5D9FF,&H002A0038,&H002A0038,&H002A0038,0,0,0,0,100,96,5,0,1,2,0,2,10,10,40,1
+Style: 翻译 黑-furigana,Noto Sans SC SemiBold,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.35,0,2,10,10,46,1
+Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: 翻译 黑,Noto Sans SC SemiBold,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,10,10,46,1
+Style: 翻译 黑 带小字,Noto Sans SC SemiBold,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,10,10,46,1
+Style: 翻译 宋,Noto Serif SC SemiBold,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,10,10,44,1
+Style: 注释,思源黑体 Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,20,50,20,1
+Style: 原文 Gantari,Gantari SemiBold,40,&H00F5D9FF,&H00F5D9FF,&H002A0038,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,10,10,10,1
+Style: 原文 Lora,Lora Medium,40,&H00F5D9FF,&H00F5D9FF,&H002A0038,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.28,黑 40,注释,0,0,0,,视频后续的注释部分会出现在这里，如果兴趣不大可以不用读www\N\NWoodash 个人翻译，水平有限，欢迎反馈\N如果喜欢该视频，请支持原作者\N\N{\fs30}Internet Underground | The Origins of Hacker Culture\Nhttps://www.youtube.com/watch?v=zBE9_kTFIro\N\N字幕文件在这里获取：\N (CC-BY-SA 4.0) https://github.com/WoodAsh2501/Woodash-kaorou{\fs40}\N
-Comment: 0,0:00:00.01,0:00:00.01,黑 60 带小字,,0,0,0,template furi,{\pos($scenter,!$bottom-10!)\an5}
-Comment: 0,0:00:00.01,0:00:00.01,黑 60 带小字,,0,0,0,template,{\pos($scenter,$middle)\an5}
-Dialogue: 0,0:00:02.89,0:00:05.28,Gantari 34,原文,0,0,0,,{\fad(800, 0)}On January 8th, in 1986,
-Dialogue: 1,0:00:02.89,0:00:05.28,黑 60,翻译,0,0,0,,{\fad(800, 0)}1986 年，1 月 8 日
-Dialogue: 0,0:00:05.28,0:00:09.45,Gantari 34,原文,0,0,0,,a short essay titled "The Conscience of a Hacker" was shared online.
-Dialogue: 0,0:00:05.28,0:00:15.81,黑 40,注释,0,0,0,,原文: http://phrack.org/issues/7/3.html
-Dialogue: 1,0:00:05.28,0:00:09.45,黑 60,翻译,0,0,0,,一篇题为《黑客道德》的短文被大量转发
-Dialogue: 0,0:00:09.45,0:00:13.00,Gantari 34,原文,0,0,0,,It was written shortly after the arrest of a hacker known as The Mentor,
-Dialogue: 1,0:00:09.45,0:00:13.00,黑 60,翻译,0,0,0,,化名“导师”的黑客在被捕后写了这篇文章
-Dialogue: 0,0:00:13.00,0:00:15.81,Gantari 34,原文,0,0,0,,an attempt to define the hacker ethos.
-Dialogue: 1,0:00:13.00,0:00:15.81,黑 60,翻译,0,0,0,,他在文中尝试定义了黑客的精神
-Dialogue: 0,0:00:16.29,0:00:18.35,Gantari 34,原文,0,0,0,,The end of the essay states the following:
-Dialogue: 1,0:00:16.29,0:00:18.35,黑 60,翻译,0,0,0,,文章结尾处写道：
-Dialogue: 0,0:00:19.16,0:00:21.16,Gantari 34,原文,0,0,0,,"We seek after knowledge,"
-Dialogue: 1,0:00:19.16,0:00:21.16,黑 60,翻译,0,0,0,,“我们寻求知识”
-Dialogue: 0,0:00:21.16,0:00:22.80,Gantari 34,原文,0,0,0,,"and you call us criminals."
-Dialogue: 1,0:00:21.16,0:00:22.80,黑 60,翻译,0,0,0,,“你们却说我们是{\c&H00FF08&}罪犯{\c}”
-Dialogue: 0,0:00:23.20,0:00:25.74,Gantari 34,原文,0,0,0,,"We exist without skin color, without nationality,"
-Dialogue: 1,0:00:23.20,0:00:25.74,黑 60,翻译,0,0,0,,“我们不论{\c&H00FF08&}肤色{\c}，不论{\c&H00FF08&}国籍{\c}”
-Dialogue: 0,0:00:25.75,0:00:27.62,Gantari 34,原文,0,0,0,,"without religious bias,"
-Dialogue: 1,0:00:25.75,0:00:27.62,黑 60,翻译,0,0,0,,“不论{\c&H00FF08&}宗教异同{\c}”
-Dialogue: 0,0:00:27.62,0:00:29.78,Gantari 34,原文,0,0,0,,"and you call us criminals."
-Dialogue: 1,0:00:27.62,0:00:29.78,黑 60,翻译,0,0,0,,“你们却说我们是{\c&H1907FF&}罪犯{\c}”
-Dialogue: 0,0:00:29.78,0:00:31.48,Gantari 34,原文,0,0,0,,"Yes, I am a criminal,"
-Dialogue: 1,0:00:29.78,0:00:31.48,黑 60,翻译,0,0,0,,“好 我就是罪犯”
-Dialogue: 0,0:00:32.11,0:00:34.41,Gantari 34,原文,0,0,0,,"my crime is that of curiosity."
-Dialogue: 1,0:00:32.11,0:00:34.41,黑 60,翻译,0,0,0,,“我的罪孽是好奇”
-Dialogue: 0,0:00:34.94,0:00:38.43,Gantari 34,原文,0,0,0,,"You may stop me, but you can't stop us all."
-Dialogue: 1,0:00:34.94,0:00:38.43,黑 60,翻译,0,0,0,,“你们可以阻止我 但不能阻止我们”
-Dialogue: 0,0:00:40.21,0:00:41.20,Gantari 34,原文,0,0,0,,"That's cool."
-Dialogue: 1,0:00:40.21,0:00:41.20,黑 60,翻译,0,0,0,,“真酷”
-Dialogue: 0,0:00:42.20,0:00:43.67,Gantari 34,原文,0,0,0,,All right, there are three different kinds:
-Dialogue: 1,0:00:42.20,0:00:43.67,黑 60,翻译,0,0,0,,我们继续说吧 黑客一共有三种
-Dialogue: 0,0:00:43.67,0:00:45.27,Gantari 34,原文,0,0,0,,there's white hat - the good guys,
-Dialogue: 1,0:00:43.67,0:00:45.27,黑 60,翻译,0,0,0,,白帽——好人
-Dialogue: 0,0:00:45.27,0:00:47.23,Gantari 34,原文,0,0,0,,there's gray hat - the good and bad guys,
-Dialogue: 1,0:00:45.27,0:00:47.23,黑 60,翻译,0,0,0,,灰帽——亦正亦邪
-Dialogue: 0,0:00:47.23,0:00:48.27,Gantari 34,原文,0,0,0,,and then there's black hat -
-Dialogue: 1,0:00:47.23,0:00:48.27,黑 60,翻译,0,0,0,,然后是黑帽——
-Dialogue: 0,0:00:48.81,0:00:50.82,Gantari 34,原文,0,0,0,,just the bad guys.
-Dialogue: 1,0:00:48.81,0:00:50.82,黑 60,翻译,0,0,0,,纯纯的坏人
-Dialogue: 0,0:00:50.82,0:00:53.63,Gantari 34,原文,0,0,0,,They're comprised of coders, engineers, social engineers,
-Dialogue: 1,0:00:50.82,0:00:53.63,黑 60,翻译,0,0,0,,他们包括程序员、工程师、社会工程师
-Dialogue: 0,0:00:53.63,0:00:57.33,Gantari 34,原文,0,0,0,,activists, network specialists, scammers,
-Dialogue: 1,0:00:53.63,0:00:57.33,黑 60,翻译,0,0,0,,活动家、网络专家、诈骗犯
-Dialogue: 0,0:00:57.33,0:00:58.95,Gantari 34,原文,0,0,0,,crackers, and exploiters.
-Dialogue: 1,0:00:57.34,0:00:58.95,黑 60,翻译,0,0,0,,破解者和利用漏洞的人
-Dialogue: 0,0:00:58.95,0:01:01.21,Gantari 34,原文,0,0,0,,Some of them work alone, some of them work in groups.
-Dialogue: 1,0:00:58.95,0:01:01.21,黑 60,翻译,0,0,0,,有些人独来独往 有些人抱团行动
-Dialogue: 0,0:01:01.21,0:01:03.04,Gantari 34,原文,0,0,0,,And some of them even work for the government,
-Dialogue: 1,0:01:01.21,0:01:03.04,黑 60,翻译,0,0,0,,有些甚至为政府工作
-Dialogue: 0,0:01:04.21,0:01:05.75,Gantari 34,原文,0,0,0,,I mean until they don't.
-Dialogue: 1,0:01:04.21,0:01:05.75,黑 60,翻译,0,0,0,,我是说——在离开之前
-Dialogue: 0,0:01:05.75,0:01:06.79,Gantari 34,原文,0,0,0,,They're the outcasts,
-Dialogue: 1,0:01:05.75,0:01:06.79,黑 60,翻译,0,0,0,,他们是边缘人
-Dialogue: 0,0:01:06.79,0:01:08.04,Gantari 34,原文,0,0,0,,the antisocial nerds,
-Dialogue: 1,0:01:06.79,0:01:08.04,黑 60,翻译,0,0,0,,是反社会的书呆子
-Dialogue: 0,0:01:08.04,0:01:10.30,Gantari 34,原文,0,0,0,,the losers with computers.
-Dialogue: 1,0:01:08.04,0:01:10.30,黑 60,翻译,0,0,0,,是捣鼓电脑的失败者
-Dialogue: 0,0:01:10.31,0:01:12.95,Gantari 34,原文,0,0,0,,But, they're also the ones who got rich off Bitcoin,
-Dialogue: 1,0:01:10.31,0:01:12.95,黑 60,翻译,0,0,0,,但 他们也是从比特币中发家致富的人
-Dialogue: 0,0:01:12.95,0:01:15.67,Gantari 34,原文,0,0,0,,the ones who throw a crazy party in Las Vegas every year,
-Dialogue: 1,0:01:12.95,0:01:15.67,黑 60,翻译,0,0,0,,是每年在拉斯维加斯举办疯狂派对的人
-Dialogue: 0,0:01:15.67,0:01:18.30,Gantari 34,原文,0,0,0,,the ones who start billion-dollar tech companies,
-Dialogue: 1,0:01:15.67,0:01:18.30,黑 60,翻译,0,0,0,,是创办了市值数十亿美元的科技公司的人
-Dialogue: 0,0:01:18.30,0:01:21.04,Gantari 34,原文,0,0,0,,the ones who steal millions of dollars from those tech companies.
-Dialogue: 1,0:01:18.30,0:01:21.04,黑 60,翻译,0,0,0,,是从那些科技公司窃取数百万美元的人
-Dialogue: 0,0:01:21.38,0:01:23.94,Gantari 34,原文,0,0,0,,They're the ones who have changed the world.
-Dialogue: 1,0:01:21.38,0:01:23.94,黑 60,翻译,0,0,0,,他们是改变了世界的人
-Dialogue: 0,0:01:23.94,0:01:26.10,Gantari 34,原文,0,0,0,,They are the hackers.
-Dialogue: 1,0:01:23.94,0:01:26.10,黑 60,翻译,0,0,0,,他们就是黑客
-Dialogue: 0,0:01:27.44,0:01:29.24,Gantari 34,原文,0,0,0,,But how did we even get here?
-Dialogue: 1,0:01:27.44,0:01:29.24,黑 60,翻译,0,0,0,,但 事情是怎么变成这样的？
-Dialogue: 0,0:01:33.57,0:01:38.45,黑 60,标注,0,0,0,,{\fs60\fnNoto Sans SC Black\pos(960,652)}火车模型
-Dialogue: 0,0:01:34.24,0:01:37.46,Gantari 34,原文,0,0,0,,Our story begins right at the start of what many now call
-Dialogue: 1,0:01:34.24,0:01:37.46,黑 60,翻译,0,0,0,,我们的故事从这个时候开始
-Dialogue: 0,0:01:37.46,0:01:38.46,Gantari 34,原文,0,0,0,,the culture decade.
-Dialogue: 0,0:01:37.46,0:01:44.63,黑 40,注释,0,0,0,,{\fad(0,1000)}指 20 世纪 60 年代，也被称为“反文化的年代”，与如下文化概念相关：\N摇滚乐英伦入侵、新浪潮电影、嬉皮士文化、迷幻剂 / 毒品文化\N新左翼、性解放、第二波女性主义运动、民权运动、反越战运动
-Dialogue: 1,0:01:37.46,0:01:38.45,黑 60,翻译,0,0,0,,文化年代
-Dialogue: 1,0:01:38.45,0:01:39.70,黑 60,标注,0,0,0,,波士顿\N20 世纪 60 年代
-Dialogue: 1,0:01:42.62,0:01:44.63,黑 60,标注,0,0,0,,{\fad(0,1000)}麻省理工学院
-Dialogue: 0,0:01:44.63,0:01:46.19,Gantari 34,原文,0,0,0,,In the early 1960s,
-Dialogue: 1,0:01:44.64,0:01:46.19,黑 60,翻译,0,0,0,,在 20 世纪 60 年代早期
-Dialogue: 0,0:01:46.19,0:01:48.29,Gantari 34,原文,0,0,0,,a rebellious and transformative culture
-Dialogue: 1,0:01:46.19,0:01:48.29,黑 60,翻译,0,0,0,,叛逆和变革的文化
-Dialogue: 0,0:01:48.29,0:01:52.38,Gantari 34,原文,0,0,0,,took root within the prestigious halls of the Massachusetts Institute of Technology.
-Dialogue: 1,0:01:48.30,0:01:52.38,黑 60,翻译,0,0,0,,深深扎根在麻省理工学院显赫辉煌的大厅中
-Dialogue: 0,0:01:52.59,0:01:55.99,Gantari 34,原文,0,0,0,,The beginning of hacker culture started on campus in Building 20,
-Dialogue: 1,0:01:52.59,0:01:55.99,黑 60,翻译,0,0,0,,黑客文化起源于学校里的 20 号楼
-Dialogue: 0,0:01:55.99,0:01:59.72,Gantari 34,原文,0,0,0,,a structure which has since been deemed "The Magical Incubator".
-Dialogue: 1,0:01:55.99,0:01:59.72,黑 60,翻译,0,0,0,,后来人们说这座建筑是“神奇的孵化器”
-Dialogue: 0,0:01:59.72,0:02:01.13,Gantari 34,原文,0,0,0,,Located on the third floor,
-Dialogue: 1,0:01:59.72,0:02:01.13,黑 60,翻译,0,0,0,,在建筑的三楼
-Dialogue: 0,0:02:01.13,0:02:05.33,Gantari 34,原文,0,0,0,,you could find a crowded classroom that space was absolutely dominated
-Dialogue: 1,0:02:01.13,0:02:05.33,黑 60,翻译,0,0,0,,你可以找到一个人满为患的教室
-Dialogue: 0,0:02:05.33,0:02:08.19,Gantari 34,原文,0,0,0,,by a carefully constructed layout of model train tracks.
-Dialogue: 1,0:02:05.33,0:02:08.19,黑 60,翻译,0,0,0,,精心布置的模型轨道把房间塞得满满当当
-Dialogue: 0,0:02:08.56,0:02:13.60,Gantari 34,原文,0,0,0,,This space was the home to MIT's very own Tech Model Railroad Club.
-Dialogue: 1,0:02:08.56,0:02:13.60,黑 60,翻译,0,0,0,,这里就是麻省理工特有的技术模型铁路俱乐部的小窝
-Dialogue: 0,0:02:13.60,0:02:16.20,Gantari 34,原文,0,0,0,,The club consisted of different groups that worked together
-Dialogue: 1,0:02:13.61,0:02:16.20,黑 60,翻译,0,0,0,,俱乐部里的小组分工合作
-Dialogue: 0,0:02:16.20,0:02:20.49,Gantari 34,原文,0,0,0,,towards their common goal of automating the operation of model trains.
-Dialogue: 1,0:02:16.21,0:02:20.49,黑 60,翻译,0,0,0,,为实现模型机车的自动化控制共同奋斗
-Dialogue: 0,0:02:20.49,0:02:23.37,Gantari 34,原文,0,0,0,,Some focused on crafting historical train replicas,
-Dialogue: 1,0:02:20.49,0:02:23.37,黑 60,翻译,0,0,0,,一些成员专注于复刻历史上的机车
-Dialogue: 0,0:02:23.37,0:02:25.05,Gantari 34,原文,0,0,0,,others on scenery and buildings,
-Dialogue: 1,0:02:23.37,0:02:25.05,黑 60,翻译,0,0,0,,一些负责环境和建筑
-Dialogue: 0,0:02:25.05,0:02:27.01,Gantari 34,原文,0,0,0,,but it was one group in particular,
-Dialogue: 1,0:02:25.05,0:02:27.01,黑 60,翻译,0,0,0,,还有一个小组很特别
-Dialogue: 0,0:02:27.01,0:02:29.26,Gantari 34,原文,0,0,0,,the signals and power subcommittee,
-Dialogue: 1,0:02:27.01,0:02:29.26,黑 60,翻译,0,0,0,,叫 信号和电力小组委员会
-Dialogue: 0,0:02:29.26,0:02:32.32,Gantari 34,原文,0,0,0,,who were responsible for first popularizing the term:
-Dialogue: 1,0:02:29.26,0:02:32.32,黑 60,翻译,0,0,0,,他们率先普及了下面这个术语
-Dialogue: 0,0:02:32.33,0:02:33.25,Gantari 34,原文,0,0,0,,"hacker."
-Dialogue: 1,0:02:32.33,0:02:33.25,黑 60,翻译,0,0,0,,“黑客”
-Dialogue: 0,0:02:33.26,0:02:37.27,Gantari 34,原文,0,0,0,,this group was mainly responsible for creating the circuits that operated the trains
-Dialogue: 1,0:02:33.26,0:02:37.27,黑 60,翻译,0,0,0,,这个小组主要负责研发火车的控制电路
-Dialogue: 0,0:02:37.27,0:02:40.35,Gantari 34,原文,0,0,0,,they were basically the engineers behind the whole operation.
-Dialogue: 1,0:02:37.27,0:02:40.35,黑 60,翻译,0,0,0,,可以说 他们就是整个自动化背后的工程师
-Dialogue: 0,0:02:40.35,0:02:44.01,Gantari 34,原文,0,0,0,,One member of the subcommittee was a guy named Peter Samson
-Dialogue: 1,0:02:40.35,0:02:44.01,黑 60,翻译,0,0,0,,其中有一个叫做 Peter Samson 的成员
-Dialogue: 0,0:02:44.01,0:02:49.60,Gantari 34,原文,0,0,0,,Now it's important to understand that Peter was absolutely obsessed with electronics and automation,
-Dialogue: 1,0:02:44.01,0:02:49.60,黑 60,翻译,0,0,0,,重点是 Peter 对电子学和自动化很着迷
-Dialogue: 0,0:02:49.60,0:02:52.81,Gantari 34,原文,0,0,0,,and he was always looking for new ways to be creative
-Dialogue: 1,0:02:49.60,0:02:52.81,黑 60,翻译,0,0,0,,而且他不断创新
-Dialogue: 0,0:02:52.81,0:02:56.89,Gantari 34,原文,0,0,0,,and pioneer new systems, to operate model trains within the TMRC.
-Dialogue: 1,0:02:52.81,0:02:56.89,黑 60,翻译,0,0,0,,领导着俱乐部建立新的铁路控制系统
-Dialogue: 0,0:02:58.60,0:03:01.20,Gantari 34,原文,0,0,0,,He was also someone who loved to explore.
-Dialogue: 1,0:02:58.60,0:03:01.20,黑 60,翻译,0,0,0,,他也是一个热爱探险的人
-Dialogue: 0,0:03:04.15,0:03:06.70,Gantari 34,原文,0,0,0,,One {\i1}fateful night{\i0} around 2:00 in the morning,
-Dialogue: 1,0:03:04.15,0:03:06.70,黑 60,翻译,0,0,0,,在命运之夜的凌晨两点左右
-Dialogue: 0,0:03:06.70,0:03:09.96,Gantari 34,原文,0,0,0,,he roamed the basement hallways of Building 26
-Dialogue: 1,0:03:06.70,0:03:09.96,黑 60,翻译,0,0,0,,他在 26 号楼的地下室走廊中徘徊
-Dialogue: 0,0:03:09.96,0:03:11.55,Gantari 34,原文,0,0,0,,in search of something intriguing.
-Dialogue: 1,0:03:09.96,0:03:11.55,黑 60,翻译,0,0,0,,寻找有趣的东西
-Dialogue: 0,0:03:11.55,0:03:15.87,Gantari 34,原文,0,0,0,,Little did he know that this nocturnal exploration would lead him to a discovery,
-Dialogue: 1,0:03:11.55,0:03:15.87,黑 60,翻译,0,0,0,,他全然不知 这次夜间探索会有所发现
-Dialogue: 0,0:03:15.87,0:03:18.67,Gantari 34,原文,0,0,0,,propelling him into a new realm of creativity
-Dialogue: 1,0:03:15.87,0:03:18.67,黑 60,翻译,0,0,0,,会让他进入创造的新领域
-Dialogue: 0,0:03:18.67,0:03:21.01,Gantari 34,原文,0,0,0,,and even the beginning of a new lifestyle.
-Dialogue: 1,0:03:18.67,0:03:21.01,黑 60,翻译,0,0,0,,甚至会开创一种新的生活方式
-Dialogue: 0,0:03:21.50,0:03:26.25,Gantari 34,原文,0,0,0,,Upon entering an area that was labeled the Electronic Accounting Machinery Room,
-Dialogue: 1,0:03:21.50,0:03:26.25,黑 60,翻译,0,0,0,,进入标有“电子会计机房”的区域后
-Dialogue: 0,0:03:26.25,0:03:29.85,Gantari 34,原文,0,0,0,,Peter caught his first glimpse of an IBM 704,
-Dialogue: 1,0:03:26.25,0:03:29.85,黑 60,翻译,0,0,0,,Peter 第一次看见了 IBM 704
-Dialogue: 0,0:03:29.85,0:03:34.22,Gantari 34,原文,0,0,0,,a multi-million dollar mainframe that took up almost the entirety of the space.
-Dialogue: 1,0:03:29.85,0:03:34.22,黑 60,翻译,0,0,0,,那是一台价值百万美元的大型机 几乎塞满了整个房间
-Dialogue: 0,0:03:34.74,0:03:38.33,Gantari 34,原文,0,0,0,,Now, Peter was definitely not supposed to be here,
-Dialogue: 1,0:03:34.74,0:03:38.33,黑 60,翻译,0,0,0,,可 Peter 绝对不该出现在这里
-Dialogue: 0,0:03:38.33,0:03:41.11,Gantari 34,原文,0,0,0,,as the room was usually heavily staffed during the day,
-Dialogue: 1,0:03:38.33,0:03:41.11,黑 60,翻译,0,0,0,,白天房间里通常挤满了人
-Dialogue: 0,0:03:41.11,0:03:46.67,Gantari 34,原文,0,0,0,,and only people with official security clearance from MIT, were allowed to operate the computer in the first place.
-Dialogue: 1,0:03:41.12,0:03:46.67,黑 60,翻译,0,0,0,,并且只有获得学校的官方安全许可的人 才能优先使用计算机
-Dialogue: 0,0:03:47.56,0:03:48.56,Gantari 34,原文,0,0,0,,But...
-Dialogue: 1,0:03:47.56,0:03:48.56,黑 60,翻译,0,0,0,,但是…
-Dialogue: 0,0:03:48.56,0:03:50.32,Gantari 34,原文,0,0,0,,no one was ever there at 2 a.m.
-Dialogue: 1,0:03:48.56,0:03:50.32,黑 60,翻译,0,0,0,,半夜两点根本没人在那里
-Dialogue: 0,0:03:50.72,0:03:53.07,Gantari 34,原文,0,0,0,,Alongside other members of the TMRC,
-Dialogue: 1,0:03:50.72,0:03:53.07,黑 60,翻译,0,0,0,,和俱乐部的其他成员一起
-Dialogue: 0,0:03:53.07,0:03:56.75,Gantari 34,原文,0,0,0,,Peter would regularly sneak into the basement of Building 26 at night
-Dialogue: 1,0:03:53.07,0:03:56.75,黑 60,翻译,0,0,0,,Peter 经常在夜里潜入 26 号楼的地下室
-Dialogue: 0,0:03:56.75,0:04:00.19,Gantari 34,原文,0,0,0,,to use the computer and other devices held by the EAM room.
-Dialogue: 1,0:03:56.75,0:04:00.19,黑 60,翻译,0,0,0,,使用机房里的计算机和其他设备
-Dialogue: 0,0:04:00.63,0:04:05.89,Gantari 34,原文,0,0,0,,These acts of defiance would mark the beginning of hacker culture as we now know it today.
-Dialogue: 1,0:04:00.63,0:04:05.89,黑 60,翻译,0,0,0,,这些蔑视规定的行为标志着黑客文化的诞生 我们今日再熟悉不过了
-Dialogue: 0,0:04:05.89,0:04:09.13,Gantari 34,原文,0,0,0,,Machine time was extremely, tight.
-Dialogue: 1,0:04:05.89,0:04:09.13,黑 60,翻译,0,0,0,,能用机器的时间特别的 紧
-Dialogue: 0,0:04:09.13,0:04:09.93,Gantari 34,原文,0,0,0,,Uh...
-Dialogue: 1,0:04:09.13,0:04:09.93,黑 60,翻译,0,0,0,,额…
-Dialogue: 0,0:04:09.93,0:04:11.84,Gantari 34,原文,0,0,0,,They found times in the middle of the night,
-Dialogue: 1,0:04:09.93,0:04:11.84,黑 60,翻译,0,0,0,,他们发现半夜是个好时机
-Dialogue: 0,0:04:11.84,0:04:14.27,Gantari 34,原文,0,0,0,,maybe in unlocked computer rooms where they could do these things.
-Dialogue: 1,0:04:11.84,0:04:14.27,黑 60,翻译,0,0,0,,可以潜入没上锁的机房做些事情
-Dialogue: 0,0:04:14.27,0:04:15.78,Gantari 34,原文,0,0,0,,The liberal arts majors, {\s1\b0}who{\s0\b1}
-Dialogue: 1,0:04:14.27,0:04:15.78,黑 60,翻译,0,0,0,,那些文科专业的学生
-Dialogue: 0,0:04:15.78,0:04:18.04,Gantari 34,原文,0,0,0,,whose only computer time available was if they
-Dialogue: 1,0:04:15.78,0:04:18.04,黑 60,翻译,0,0,0,,他们唯一能用电脑的方式就是
-Dialogue: 0,0:04:18.04,0:04:20.91,Gantari 34,原文,0,0,0,,gummed up the locks and sneak into the building late at night
-Dialogue: 1,0:04:18.04,0:04:20.91,黑 60,翻译,0,0,0,,深夜里用口香糖撬锁然后偷偷溜进室内
-Dialogue: 0,0:04:20.91,0:04:22.78,Gantari 34,原文,0,0,0,,because they weren't allowed to sign up for this stuff
-Dialogue: 1,0:04:20.91,0:04:22.78,黑 60,翻译,0,0,0,,因为他们没有资格申请使用电脑
-Dialogue: 0,0:04:22.78,0:04:28.98,Gantari 34,原文,0,0,0,,The people that took a systematic approach toward the development of {\s1}uh{\s0} computer software
-Dialogue: 1,0:04:22.78,0:04:28.98,黑 60,翻译,0,0,0,,那些系统地学习计算机软件开发的人
-Dialogue: 0,0:04:28.98,0:04:30.07,Gantari 34,原文,0,0,0,,missed the boat.
-Dialogue: 1,0:04:28.98,0:04:30.07,黑 60,翻译,0,0,0,,错失了天大的良机
-Dialogue: 0,0:04:30.07,0:04:33.86,Gantari 34,原文,0,0,0,,It was a trial and error (for) people working illegally, in the underground
-Dialogue: 0,0:04:30.07,0:04:35.44,黑 40,注释,0,0,0,,*没听明白（？
-Dialogue: 1,0:04:30.07,0:04:33.86,黑 60,翻译,0,0,0,,那些违规的人在地下室不断试验
-Dialogue: 0,0:04:33.86,0:04:35.44,Gantari 34,原文,0,0,0,,This move made most (of) the advances.
-Dialogue: 1,0:04:33.86,0:04:35.44,黑 60,翻译,0,0,0,,导致他们遥遥领先于学院派
-Dialogue: 0,0:04:37.33,0:04:41.44,Gantari 34,原文,0,0,0,,In the following years, the TMRC would continue tinkering with computer technology
-Dialogue: 1,0:04:37.33,0:04:41.44,黑 60,翻译,0,0,0,,接下来的几年里 俱乐部会继续钻研计算机技术
-Dialogue: 0,0:04:41.44,0:04:43.68,Gantari 34,原文,0,0,0,,whether they had permission or not.
-Dialogue: 1,0:04:41.44,0:04:43.68,黑 60,翻译,0,0,0,,无论他们有没有许可
-Dialogue: 0,0:04:44.22,0:04:45.59,Gantari 34,原文,0,0,0,,But to be honest,
-Dialogue: 1,0:04:44.22,0:04:45.59,黑 60,翻译,0,0,0,,但老实说
-Dialogue: 0,0:04:45.59,0:04:48.51,Gantari 34,原文,0,0,0,,using model trains as your excuse to be a hacker,
-Dialogue: 1,0:04:45.59,0:04:48.51,黑 60,翻译,0,0,0,,打着火车模型的幌子当黑客
-Dialogue: 0,0:04:48.51,0:04:50.93,Gantari 34,原文,0,0,0,,could really only get you so far.
-Dialogue: 1,0:04:48.51,0:04:50.93,黑 60,翻译,0,0,0,,最多也只能做这些事了
-Dialogue: 0,0:04:50.93,0:04:56.25,Gantari 34,原文,0,0,0,,Subsequently, many TMRC members that were a part of the Signals and Power Subcommittee
-Dialogue: 1,0:04:50.93,0:04:56.25,黑 60,翻译,0,0,0,,后来 许多参加小组委员会的俱乐部成员
-Dialogue: 0,0:04:56.25,0:04:59.75,Gantari 34,原文,0,0,0,,went on to join MIT's Artificial Intelligence Lab.
-Dialogue: 1,0:04:56.25,0:04:59.74,黑 60,翻译,0,0,0,,加入了麻省理工人工智能实验室
-Dialogue: 0,0:04:59.75,0:05:03.08,Gantari 34,原文,0,0,0,,Led by the MIT Lab Director Marvin Minsky,
-Dialogue: 1,0:04:59.75,0:05:03.08,黑 60,翻译,0,0,0,,在实验室主任 Marvin Minsky 的指引中
-Dialogue: 0,0:05:03.08,0:05:05.49,Gantari 34,原文,0,0,0,,these early hackers had found a supportive mentor.
-Dialogue: 1,0:05:03.08,0:05:05.49,黑 60,翻译,0,0,0,,这些早期黑客发现他是一位很支持他们的导师
-Dialogue: 0,0:05:07.08,0:05:11.93,Gantari 34,原文,0,0,0,,Impressed by their determination, Minsky allowed them direct access to the machines.
-Dialogue: 1,0:05:07.08,0:05:11.93,黑 60,翻译,0,0,0,,Minsky 被他们的决心深深打动 允许他们直接使用机器
-Dialogue: 0,0:05:12.29,0:05:15.36,Gantari 34,原文,0,0,0,,And with that, the lab members went to work.
-Dialogue: 1,0:05:12.29,0:05:15.36,黑 60,翻译,0,0,0,,就这样，实验室成员开始工作了
-Dialogue: 0,0:05:15.36,0:05:18.22,Gantari 34,原文,0,0,0,,Among the many achievements of the MIT AI Lab
-Dialogue: 1,0:05:15.36,0:05:18.23,黑 60,翻译,0,0,0,,麻省理工学院人工智能实验室有着诸多成就
-Dialogue: 0,0:05:18.23,0:05:20.30,Gantari 34,原文,0,0,0,,was the creation of {\i1}Spacewar!{\i0},
-Dialogue: 1,0:05:18.23,0:05:20.30,黑 60,翻译,0,0,0,,其中就有《太空大战！》
-Dialogue: 0,0:05:20.30,0:05:24.58,Gantari 34,原文,0,0,0,,one of the first video games predating {\i1}Pong{\i0} by a decade.
-Dialogue: 0,0:05:20.31,0:05:24.58,黑 40,注释,0,0,0,,{\pos(6.549,20)}《乓》是 Atari 公司于 1972 年发布的街机游戏，支持二人对战
-Dialogue: 0,0:05:20.31,0:05:24.58,黑 40,注释,0,0,0,,{\fs30\pos(20,66.4)}这是“乒乓”的“乓”字\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Pong
-Dialogue: 1,0:05:20.31,0:05:24.58,黑 60,翻译,0,0,0,,这是最早的电子游戏之一，比《乓》早了十年
-Dialogue: 0,0:05:24.58,0:05:28.96,Gantari 34,原文,0,0,0,,"So those stars is a part from Peter Samson wrote called {\\i1}Expensive Planetarium{\\i0}."
-Dialogue: 0,0:05:24.59,0:05:32.77,黑 40,注释,0,0,0,,昂贵天文馆是一个基于真实星图的程序，包括 22.5° N 到 22.5° S 中的所有亮于 5 视星等的恒星\N昂贵是说运行代码的 PDP-1 计算机比用投影仪的传统天文馆贵\NPDP-1 在当时的价格为 12 万美元，等价于 2024 年 8 月的 125 万美元，换算为 898 万人民币{\fs30}\N\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Spacewar!\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/PDP-1
-Dialogue: 1,0:05:24.59,0:05:28.96,黑 60,翻译,0,0,0,,“这些星星是 Peter Samson 写的‘昂贵天文馆’里的一部分”
-Dialogue: 0,0:05:28.96,0:05:32.77,Gantari 34,原文,0,0,0,,"And it's ..." (Laugh)
-Dialogue: 1,0:05:28.96,0:05:32.77,黑 60,翻译,0,0,0,,“它……”（笑声）
-Dialogue: 0,0:05:32.77,0:05:35.02,Gantari 34,原文,0,0,0,,With the success of visionaries at MIT,
-Dialogue: 1,0:05:32.77,0:05:35.02,黑 60,翻译,0,0,0,,随着学校里那些远见人士的成功
-Dialogue: 0,0:05:35.02,0:05:37.31,Gantari 34,原文,0,0,0,,and as the 1960s unfolded,
-Dialogue: 1,0:05:35.02,0:05:37.31,黑 60,翻译,0,0,0,,以及 20 世纪 60 年代的到来
-Dialogue: 0,0:05:37.31,0:05:40.59,Gantari 34,原文,0,0,0,,the hacker ethos began to spread like wildfire,
-Dialogue: 1,0:05:37.31,0:05:40.59,黑 60,翻译,0,0,0,,黑客思潮如野火一样蔓延
-Dialogue: 0,0:05:40.59,0:05:44.78,Gantari 34,原文,0,0,0,,igniting centers of innovation at universities across the nation.
-Dialogue: 1,0:05:40.59,0:05:44.78,黑 60,翻译,0,0,0,,引燃了全美大学的创新中心
-Dialogue: 0,0:05:44.78,0:05:49.41,Gantari 34,原文,0,0,0,,From Carnegie Mellon to Stanford, the spirit of exploration thrived,
-Dialogue: 1,0:05:44.78,0:05:49.41,黑 60,翻译,0,0,0,,探索精神在卡内基梅隆和斯坦福这些学校里蓬勃发展
-Dialogue: 0,0:05:49.41,0:05:52.75,Gantari 34,原文,0,0,0,,fostering a new breed of technological pioneers.
-Dialogue: 1,0:05:49.41,0:05:52.75,黑 60,翻译,0,0,0,,培养出了新一代的技术先锋
-Dialogue: 0,0:05:53.22,0:05:57.87,Gantari 34,原文,0,0,0,,At this point, hacker culture seemed to be quite contained to the more academic circles,
-Dialogue: 1,0:05:53.22,0:05:57.87,黑 60,翻译,0,0,0,,此时 黑客文化似乎还更多地局限于学术界
-Dialogue: 0,0:05:57.87,0:06:00.77,Gantari 34,原文,0,0,0,,and it actually seemed like it was going to stay that way for a while.
-Dialogue: 1,0:05:57.87,0:06:00.77,黑 60,翻译,0,0,0,,这种情况看上去好像还会持续一段时间
-Dialogue: 0,0:06:00.77,0:06:06.82,Gantari 34,原文,0,0,0,,But it wasn't long until hacking spawned the comp-sci student dropout cliché, that we know all too well today.
-Dialogue: 0,0:06:00.77,0:06:06.82,黑 40,注释,0,0,0,,\N\N　　　　Steve Jobs\N　　　　Michael Dell\N　　　　Bill Gates\N　　　　Mark Zuckerberg\N　　　　Larry Ellison (1)\N　　　　{\alphaHFF}Larry Ellison {\alpha}(2nd.)
-Dialogue: 1,0:06:00.77,0:06:06.82,黑 40,注释,0,0,0,,严格来说真正的计科辍学并不是很多，不过扩展到计算机行业的不完全统计如下：\N苹果·　　　　　　　　　　 - 1 学期，里德学院，英语专业\N戴尔·　　　　　　　　　　 - 2 学期，得克萨斯大学奥斯汀分校，医学预科\N微软·　　　　　　　　　　 - 3 学期，哈佛大学，在选专业前退学，学了数学和计算机的课程\N脸书·　　　　　　　　　　 - 4 学期，哈佛大学，计算机科学与心理学\N甲骨文·　　　　　　　　　 - 4 学期，伊利诺伊大学厄巴纳-尚佩恩分校，医学预科\N　　　　　　　　　　　　　 - 1 学期，芝加哥大学，物理学与数学{\fs30}\N\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Steve_Jobs\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Michael_Dell\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Bill_Gates\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Mark_Zuckerberg\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Larry_Ellison
-Dialogue: 1,0:06:00.77,0:06:06.82,黑 60,翻译,0,0,0,,但再过不久 黑客文化就会催生出我们熟知的典中典之计科辍学了
-Dialogue: 0,0:06:07.37,0:06:08.49,Gantari 34,原文,0,0,0,,It all starts
-Dialogue: 1,0:06:07.37,0:06:08.49,黑 60,翻译,0,0,0,,一切
-Dialogue: 0,0:06:08.49,0:06:09.50,Gantari 34,原文,0,0,0,,with the telephone.
-Dialogue: 1,0:06:08.49,0:06:09.50,黑 60,翻译,0,0,0,,都从电话开始
-Dialogue: 0,0:06:13.31,0:06:17.56,黑 60,标注,0,0,0,,{\fs60\fnNoto Sans SC Black\pos(960,652)}飞客和极客
-Dialogue: 0,0:06:14.14,0:06:16.13,Gantari 34,原文,0,0,0,,"You know, Steve was never like you or me,"
-Dialogue: 1,0:06:14.14,0:06:16.13,黑 60,翻译,0,0,0,,“你也知道，Steve Jobs 从不会像你和我一样”
-Dialogue: 0,0:06:16.13,0:06:18.32,Gantari 34,原文,0,0,0,,"he always saw things differently."
-Dialogue: 1,0:06:16.13,0:06:18.32,黑 60,翻译,0,0,0,,“他总是视角不同”
-Dialogue: 0,0:06:17.56,0:06:18.35,黑 60,标注,0,0,0,,{\fs40\fnNoto Serif SC SemiBold\pos(960,628)\b1}不同凡想
-Dialogue: 0,0:06:18.32,0:06:22.13,Gantari 34,原文,0,0,0,,"Steve and I found this weird guy who was a hero around Berkeley,"
-Dialogue: 1,0:06:18.32,0:06:22.13,黑 60,翻译,0,0,0,,“Steve 和我发现了这个怪人 他也是整个伯克利的英雄”
-Dialogue: 0,0:06:22.45,0:06:24.82,Gantari 34,原文,0,0,0,,"all because he found a way to beat the system."
-Dialogue: 1,0:06:22.45,0:06:24.82,黑 60,翻译,0,0,0,,“这么说是因为他找到了战胜系统的办法”
-Dialogue: 0,0:06:24.82,0:06:26.75,Gantari 34,原文,0,0,0,,"This guy was called Captain Crunch"
-Dialogue: 1,0:06:24.82,0:06:26.75,黑 60,翻译,0,0,0,,“这个人叫脆脆船长”
-Dialogue: 0,0:06:26.75,0:06:28.02,Gantari 34,原文,0,0,0,,"because he figured out,"
-Dialogue: 1,0:06:26.75,0:06:28.02,黑 60,翻译,0,0,0,,“因为他发现”
-Dialogue: 0,0:06:28.64,0:06:33.44,Gantari 34,原文,0,0,0,,"this little whistle that you found in boxes of Cap'n Crunch cereal"
-Dialogue: 0,0:06:28.64,0:06:33.44,黑 40,注释,0,0,0,,Cap'n Crunch: 一个谷物品牌，主要产品有麦片、燕麦、脆饼等\N\N{\fs30}此词翻译引用自南方公园中文维基\N(CC-BY-SA 4.0) https://south-park.fandom.com/zh/wiki/脆脆船长
-Dialogue: 1,0:06:28.64,0:06:33.44,黑 60,翻译,0,0,0,,“在脆脆船长麦片包装盒中找到的这个小哨子”
-Dialogue: 0,0:06:33.44,0:06:36.61,Gantari 34,原文,0,0,0,,"had the same tones as AT&T's long-distance equipment."
-Dialogue: 0,0:06:33.44,0:06:36.61,黑 40,注释,0,0,0,,AT&T: 美国最大的电话电信公司，前身是贝尔电话公司\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/AT&T
-Dialogue: 1,0:06:33.44,0:06:36.61,黑 60,翻译,0,0,0,,“和 AT&T 的远距离通信设备有着一样的声音”
-Dialogue: 0,0:06:37.12,0:06:42.79,Gantari 34,原文,0,0,0,,"So you got free phone calls anywhere in the world, {\s1}with{\s0} with this thing I built called the blue box."
-Dialogue: 1,0:06:37.12,0:06:42.79,黑 60,翻译,0,0,0,,“所以你无论在哪里都可以免费打电话 用上我做的这个蓝盒子就行”
-Dialogue: 0,0:06:42.79,0:06:45.00,Gantari 34,原文,0,0,0,,"And then we tested it out by calling the Pope."
-Dialogue: 0,0:06:42.79,0:06:48.30,黑 40,注释,0,0,0,,Wozniak当时假冒美国国务卿 Henry Kissinger，代时任美国总统 Richard Nixon 打电话给罗马教宗\N当时教宗正在休息，随后他也被揭穿了\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Steve_Wozniak
-Dialogue: 1,0:06:42.79,0:06:45.00,黑 60,翻译,0,0,0,,“然后我们打电话给罗马教宗测试了一下”
-Dialogue: 0,0:06:45.00,0:06:45.90,Gantari 34,原文,0,0,0,,"You talk."
-Dialogue: 1,0:06:45.00,0:06:45.90,黑 60,翻译,0,0,0,,“你说两句”
-Dialogue: 0,0:06:45.90,0:06:48.30,Gantari 34,原文,0,0,0,,"No, no, they're not putting you through to the Pope, are they?"
-Dialogue: 1,0:06:45.90,0:06:48.30,黑 60,翻译,0,0,0,,“不对 他们没把电话给教宗吧？没给吧？”
-Dialogue: 0,0:06:48.30,0:06:51.99,Gantari 34,原文,0,0,0,,There was a huge culture shift when John Draper, also known as Captain Crunch,
-Dialogue: 1,0:06:48.30,0:06:51.99,黑 60,翻译,0,0,0,,脆脆船长 John Draper 给黑客文化带来了巨大的转变 
-Dialogue: 0,0:06:51.99,0:06:54.51,Gantari 34,原文,0,0,0,,helped pioneer the world of phone phreaking
-Dialogue: 1,0:06:51.99,0:06:54.51,黑 60,翻译,0,0,0,,他打开了“电话飞客”的新世界大门
-Dialogue: 0,0:06:53.43,0:06:54.51,黑 60,标注,0,0,0,,{\fs60\fnNoto Sans SC Black\c&H17FF14&\pos(960,558.4)}电话飞客
-Dialogue: 0,0:06:54.51,0:06:55.85,Gantari 34,原文,0,0,0,,By blowing into that toy whistle.
-Dialogue: 1,0:06:54.51,0:06:55.85,黑 60,翻译,0,0,0,,吹吹玩具哨子
-Dialogue: 0,0:06:56.04,0:06:57.24,Gantari 34,原文,0,0,0,,{\i1}*beep{\i0}
-Dialogue: 1,0:06:56.04,0:06:57.24,黑 60,翻译,0,0,0,,*哔—
-Dialogue: 0,0:06:57.24,0:06:59.81,Gantari 34,原文,0,0,0,,Draper and countless others fooled the phone company,
-Dialogue: 1,0:06:57.25,0:06:59.81,黑 60,翻译,0,0,0,,Draper 和一大群人就骗过了电话公司
-Dialogue: 0,0:06:59.81,0:07:02.27,Gantari 34,原文,0,0,0,,and made free calls all around the world.
-Dialogue: 1,0:06:59.81,0:07:02.27,黑 60,翻译,0,0,0,,在世界各地免费打电话
-Dialogue: 0,0:07:02.27,0:07:06.53,Gantari 34,原文,0,0,0,,When the two Steves began developing and distributing the aforementioned blue boxes,
-Dialogue: 0,0:07:02.27,0:07:06.53,黑 40,注释,0,0,0,,two Steves: 指 Steve Wozniak 和 Steve Jobs，二人都是苹果公司的创办者
-Dialogue: 1,0:07:02.27,0:07:06.53,黑 60,翻译,0,0,0,,Jobs 和 Wozniak 二人开始制造并派发之前说的蓝盒子的时候
-Dialogue: 0,0:07:06.53,0:07:10.95,Gantari 34,原文,0,0,0,,it actually marked one of the first times hacker culture garnered attention from the mainstream media.
-Dialogue: 1,0:07:06.53,0:07:10.95,黑 60,翻译,0,0,0,,黑客文化第一次受到主流媒体的关注
-Dialogue: 0,0:07:10.95,0:07:14.67,Gantari 34,原文,0,0,0,,When Esquire magazine wrote about it in a 1971 article,
-Dialogue: 1,0:07:10.95,0:07:14.67,黑 60,翻译,0,0,0,,《时尚先生》杂志在 1971 年写了一篇文章介绍这件事情
-Dialogue: 0,0:07:14.67,0:07:15.92,Gantari 34,原文,0,0,0,,released in the same year.
-Dialogue: 1,0:07:14.67,0:07:15.92,黑 60,翻译,0,0,0,,在那一年
-Dialogue: 0,0:07:15.92,0:07:19.95,Gantari 34,原文,0,0,0,,Freaking was also covered prominently in Abby Hoffman's now infamous publication,
-Dialogue: 1,0:07:15.92,0:07:19.95,黑 60,翻译,0,0,0,,Abby Hoffman 那本如今臭名昭著的书也特别介绍了如何当飞客
-Dialogue: 0,0:07:19.95,0:07:21.01,Gantari 34,原文,0,0,0,,"Steal This Book."
-Dialogue: 0,0:07:19.95,0:07:26.30,黑 40,注释,0,0,0,,{\i1}Steal This Book:{\i0} 反主流文化的标志性书籍，是一本指导如何不择手段地反抗政府与公司的青年指南。\N“生存”部分介绍了如何免费或者低价获取生活资料，也包括乞讨、商店行窃等\N“战斗”部分介绍了如何创办地下报刊与电台，非暴力示威，如何制作自制炸弹，游击战等\N“解放”部分介绍了纽约、芝加哥、洛杉矶和旧金山四个城市的信息\N附录中记载了支持的组织和其他“值得偷的书”\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Steal_This_Book
-Dialogue: 1,0:07:19.95,0:07:21.01,黑 60,翻译,0,0,0,,那本书叫《偷走这本书》
-Dialogue: 0,0:07:21.01,0:07:24.13,Gantari 34,原文,0,0,0,,Now to be clear, freaking wasn't just about making free calls,
-Dialogue: 1,0:07:21.01,0:07:24.13,黑 60,翻译,0,0,0,,需要澄清的是 飞客行为并不仅仅是为了免费打电话
-Dialogue: 0,0:07:24.13,0:07:26.30,Gantari 34,原文,0,0,0,,not to the hackers back then at least.
-Dialogue: 1,0:07:24.13,0:07:26.30,黑 60,翻译,0,0,0,, 至少对于那时的黑客不是这样
-Dialogue: 0,0:07:26.30,0:07:29.05,Gantari 34,原文,0,0,0,,Freaking was a new way to learn how the phone network worked,
-Dialogue: 1,0:07:26.30,0:07:29.05,黑 60,翻译,0,0,0,,当飞客意味着用新方式学习电话网络工作原理
-Dialogue: 0,0:07:29.05,0:07:30.78,Gantari 34,原文,0,0,0,,a way to pull some harmless pranks,
-Dialogue: 1,0:07:29.05,0:07:30.78,黑 60,翻译,0,0,0,,做些无害的恶作剧
-Dialogue: 0,0:07:30.78,0:07:33.76,Gantari 34,原文,0,0,0,,a way to build a community within a growing subculture,
-Dialogue: 1,0:07:30.78,0:07:33.76,黑 60,翻译,0,0,0,,在成长中的亚文化里建立社群
-Dialogue: 0,0:07:33.76,0:07:35.02,Gantari 34,原文,0,0,0,,and in some cases,
-Dialogue: 1,0:07:33.76,0:07:35.02,黑 60,翻译,0,0,0,,有些情况下
-Dialogue: 0,0:07:35.44,0:07:38.14,Gantari 34,原文,0,0,0,,a way to just simply stick it to the man.
-Dialogue: 1,0:07:35.44,0:07:38.14,黑 60,翻译,0,0,0,,就是单纯地找茬
-Dialogue: 0,0:07:38.97,0:07:41.95,Gantari 34,原文,0,0,0,,Honestly, it can be argued that freaking turned out to be
-Dialogue: 1,0:07:38.97,0:07:41.95,黑 60,翻译,0,0,0,,坦然地讲 即使不说飞客的影响最为深远
-Dialogue: 0,0:07:41.95,0:07:46.98,Gantari 34,原文,0,0,0,,one of, if not the most influential aspects of hacker culture we've seen to date.
-Dialogue: 1,0:07:41.95,0:07:46.98,黑 60,翻译,0,0,0,,那也是如今黑客文化极具影响力的一个侧面了
-Dialogue: 0,0:07:46.98,0:07:49.40,Gantari 34,原文,0,0,0,,With Steve Jobs even going as far as to say that,
-Dialogue: 1,0:07:46.98,0:07:49.40,黑 60,翻译,0,0,0,,Steve Jobs 甚至这么说过
-Dialogue: 0,0:07:49.40,0:07:51.59,Gantari 34,原文,0,0,0,,"if it had not been for Wozniak's blue boxes,"
-Dialogue: 1,0:07:49.40,0:07:51.59,黑 60,翻译,0,0,0,,“如果没有 Wozniak 做的蓝盒子”
-Dialogue: 0,0:07:51.59,0:07:52.84,Gantari 34,原文,0,0,0,,"there wouldn't have been an Apple."
-Dialogue: 1,0:07:51.59,0:07:52.84,黑 60,翻译,0,0,0,,“就不会有苹果公司了”
-Dialogue: 0,0:07:53.32,0:07:55.74,Gantari 34,原文,0,0,0,,This isn't the last time freaking will come up in this video,
-Dialogue: 1,0:07:53.32,0:07:55.74,黑 60,翻译,0,0,0,,之后我们还会谈到飞客
-Dialogue: 0,0:07:55.74,0:07:58.36,Gantari 34,原文,0,0,0,,as it definitely continued to evolve over the years.
-Dialogue: 1,0:07:55.74,0:07:58.36,黑 60,翻译,0,0,0,,因为这么多年来它确实一直在发展
-Dialogue: 0,0:07:58.68,0:07:59.47,Gantari 34,原文,0,0,0,,But for now,
-Dialogue: 1,0:07:58.68,0:07:59.47,黑 60,翻译,0,0,0,,不过呢
-Dialogue: 0,0:07:59.84,0:08:02.08,Gantari 34,原文,0,0,0,,let's go back to the topic of computers.
-Dialogue: 1,0:07:59.84,0:08:02.08,黑 60,翻译,0,0,0,,现在还是回到计算机的话题吧
-Dialogue: 0,0:08:06.34,0:08:07.50,Gantari 34,原文,0,0,0,,"What's the mail this morning?"
-Dialogue: 1,0:08:06.34,0:08:07.50,黑 60,翻译,0,0,0,,“今早有什么邮件？”
-Dialogue: 0,0:08:07.66,0:08:10.16,Gantari 34,原文,0,0,0,,"This one looks interesting, let's uh take a look at this."
-Dialogue: 1,0:08:07.66,0:08:10.16,黑 60,翻译,0,0,0,,“这个看上去很有趣 我们看看吧”
-Dialogue: 0,0:08:10.16,0:08:11.88,Gantari 34,原文,0,0,0,,"I'm going to need a couple of copies of this."
-Dialogue: 1,0:08:10.16,0:08:11.88,黑 60,翻译,0,0,0,,“我需要几份这个文件的拷贝”
-Dialogue: 0,0:08:11.88,0:08:15.33,Gantari 34,原文,0,0,0,,"You'll have a television screen like this here, and a keyboard."
-Dialogue: 1,0:08:11.88,0:08:15.33,黑 60,翻译,0,0,0,,“你的电脑会有一个这样的电视屏幕 和一个键盘”
-Dialogue: 0,0:08:15.33,0:08:17.16,Gantari 34,原文,0,0,0,,"And you'll talk to the computer, get information from it,"
-Dialogue: 1,0:08:15.34,0:08:17.16,黑 60,翻译,0,0,0,,“然后你可以和电脑交流来获取一些信息”
-Dialogue: 0,0:08:17.16,0:08:19.35,Gantari 34,原文,0,0,0,,"and you'll take it as much for granted as we take the telephone."
-Dialogue: 1,0:08:17.16,0:08:19.35,黑 60,翻译,0,0,0,,“你会觉得这种行为理所当然 就像接电话一样”
-Dialogue: 0,0:08:19.35,0:08:22.47,Gantari 34,原文,0,0,0,,"I wonder that what sort of a life would it be like in social terms?"
-Dialogue: 1,0:08:19.35,0:08:22.47,黑 60,翻译,0,0,0,,“我好奇的是 从社会角度来看 那种生活是怎样的？”
-Dialogue: 0,0:08:23.28,0:08:25.02,Gantari 34,原文,0,0,0,,"Their whole life is built around the computer."
-Dialogue: 1,0:08:23.28,0:08:25.02,黑 60,翻译,0,0,0,,“他们的生活全都围绕着电脑”
-Dialogue: 0,0:08:25.02,0:08:27.03,Gantari 34,原文,0,0,0,,"Do we become a computer-dependent society?"
-Dialogue: 1,0:08:25.03,0:08:27.03,黑 60,翻译,0,0,0,,“我们会变成一个电脑依赖型社会吗？”
-Dialogue: 0,0:08:27.03,0:08:29.86,Gantari 34,原文,0,0,0,,"In some ways, but they {\s1}eh{\s0} would also enrich our society,"
-Dialogue: 1,0:08:27.03,0:08:29.86,黑 60,翻译,0,0,0,,“某种程度上可以这么说 但电脑也会丰富我们的社会”
-Dialogue: 0,0:08:29.86,0:08:31.17,Gantari 34,原文,0,0,0,,"and this is a wonderful thing."
-Dialogue: 1,0:08:29.86,0:08:31.17,黑 60,翻译,0,0,0,,“这是一件很棒的事情”
-Dialogue: 0,0:08:31.17,0:08:33.02,Gantari 34,原文,0,0,0,,As the 1970s progressed,
-Dialogue: 1,0:08:31.17,0:08:33.02,黑 60,翻译,0,0,0,,随着 20 世纪 70 年代到来
-Dialogue: 0,0:08:33.02,0:08:36.07,Gantari 34,原文,0,0,0,,so did the interconnectedness of computer networks.
-Dialogue: 1,0:08:33.02,0:08:36.07,黑 60,翻译,0,0,0,,计算机网络相互连接在了一起
-Dialogue: 0,0:08:36.07,0:08:40.38,Gantari 34,原文,0,0,0,,The rise of ARPANET provided a new frontier for exploration and experimentation.
-Dialogue: 1,0:08:36.07,0:08:40.38,黑 60,翻译,0,0,0,,阿帕网的兴起为探索和实验提供了新的领域
-Dialogue: 0,0:08:40.84,0:08:43.27,Gantari 34,原文,0,0,0,,I'll try not to bore you, but for those unfamiliar,
-Dialogue: 1,0:08:40.84,0:08:43.27,黑 60,翻译,0,0,0,,我尽量不说得太枯燥 但还是为那些不熟悉的人介绍一下
-Dialogue: 0,0:08:43.27,0:08:47.46,Gantari 34,原文,0,0,0,,ARPANET was a computer network that helped lay the groundwork for the modern Internet.
-Dialogue: 1,0:08:43.27,0:08:47.46,黑 60,翻译,0,0,0,,阿帕网是一种计算机网络 奠定了现代互联网的基础
-Dialogue: 0,0:08:47.46,0:08:49.22,Gantari 34,原文,0,0,0,,It started out in the late '60s,
-Dialogue: 1,0:08:47.46,0:08:49.22,黑 60,翻译,0,0,0,,它在 60 年代后期发明
-Dialogue: 0,0:08:49.22,0:08:53.01,Gantari 34,原文,0,0,0,,mostly being used by research institutions and government agencies.
-Dialogue: 1,0:08:49.22,0:08:53.01,黑 60,翻译,0,0,0,,基本都是研究机构和政府部门在使用
-Dialogue: 0,0:08:53.01,0:08:55.47,Gantari 34,原文,0,0,0,,Along the way, it helped define how file sharing works
-Dialogue: 1,0:08:53.01,0:08:55.47,黑 60,翻译,0,0,0,,阿帕网在发展中定义了文件共享的方式
-Dialogue: 0,0:08:55.47,0:08:58.55,Gantari 34,原文,0,0,0,,and was even used to send and receive the first email.
-Dialogue: 1,0:08:55.47,0:08:58.55,黑 60,翻译,0,0,0,,甚至被用来收发第一封电子邮件
-Dialogue: 0,0:08:58.55,0:09:00.24,Gantari 34,原文,0,0,0,,The network was pretty small initially,
-Dialogue: 1,0:08:58.55,0:09:00.24,黑 60,翻译,0,0,0,,阿帕网一开始的规模很小
-Dialogue: 0,0:09:00.24,0:09:03.68,Gantari 34,原文,0,0,0,,but as it grew, it quickly became a playground for hackers
-Dialogue: 1,0:09:00.24,0:09:03.68,黑 60,翻译,0,0,0,,但随着规模扩大 它很快变成了黑客的游乐场
-Dialogue: 0,0:09:03.68,0:09:06.94,Gantari 34,原文,0,0,0,,eager to push the boundaries of technology and communication.
-Dialogue: 1,0:09:03.68,0:09:06.94,黑 60,翻译,0,0,0,,他们渴望推动技术和通讯的发展
-Dialogue: 0,0:09:07.36,0:09:09.31,Gantari 34,原文,0,0,0,,ARPANET also just happened to be
-Dialogue: 1,0:09:07.36,0:09:09.31,黑 60,翻译,0,0,0,,阿帕网也正正好好
-Dialogue: 0,0:09:09.31,0:09:11.54,Gantari 34,原文,0,0,0,,the first computer network to get infected.
-Dialogue: 1,0:09:09.31,0:09:11.54,黑 60,翻译,0,0,0,,成为了第一个被感染的计算机网络
-Dialogue: 0,0:09:12.18,0:09:19.13,Gantari 34,原文,0,0,0,,In 1971, a computer scientist by the name of Bob Thomas created what is widely accepted as the first computer virus,
-Dialogue: 1,0:09:12.18,0:09:19.13,黑 60,翻译,0,0,0,,1971 年 一位叫 Bob Thomas 的计算机科学家发明了公认的第一种计算机病毒
-Dialogue: 0,0:09:19.13,0:09:21.04,Gantari 34,原文,0,0,0,,now known as the Creeper virus.
-Dialogue: 0,0:09:19.13,0:09:25.16,黑 40,注释,0,0,0,,Creeper: 释义注重古怪、鬼祟与令人毛骨悚然，而直译的“爬行者”一词并无此倾向\N查询到艺术创作中 Creeper 与《巴黎圣母院》中 Quasimodo 的形象具有相似处\N仿照台译版“钟楼怪人”，译为“佝偻怪人”\N\N{\fs30}迪士尼相关百科页面中提及 Creeper (The Black Cauldron) 的早期概念形象看起来像 Quasimodo；使用搜索引擎并列搜索二词亦有相关联想\N(CC-BY-SA 4.0) https://disney.fandom.com/wiki/Creeper/Gallery
-Dialogue: 1,0:09:19.13,0:09:21.04,黑 60,翻译,0,0,0,,现在称其为“佝偻怪人”病毒
-Dialogue: 0,0:09:21.04,0:09:25.16,Gantari 34,原文,0,0,0,,This computer worm replicated itself and spread to other systems using ARPANET.
-Dialogue: 1,0:09:21.04,0:09:25.16,黑 60,翻译,0,0,0,,这个蠕虫病毒会自我复制 并通过阿帕网传染到其他电脑中
-Dialogue: 0,0:09:25.16,0:09:28.57,Gantari 34,原文,0,0,0,,It was developed by Bob while working at a technology research firm,
-Dialogue: 1,0:09:25.16,0:09:28.57,黑 60,翻译,0,0,0,,病毒是 Bob 在科研公司工作时开发的
-Dialogue: 0,0:09:28.57,0:09:30.25,Gantari 34,原文,0,0,0,,and unlike most viruses,
-Dialogue: 1,0:09:28.57,0:09:30.25,黑 60,翻译,0,0,0,,和大多数的病毒不一样
-Dialogue: 0,0:09:30.25,0:09:32.63,Gantari 34,原文,0,0,0,,it wasn't made with any malicious intent.
-Dialogue: 1,0:09:30.25,0:09:32.63,黑 60,翻译,0,0,0,,它并没有任何恶意目的
-Dialogue: 0,0:09:32.63,0:09:34.98,Gantari 34,原文,0,0,0,,The virus didn't cause any damage to your system,
-Dialogue: 1,0:09:32.63,0:09:34.98,黑 60,翻译,0,0,0,,这个病毒不会损害你的系统
-Dialogue: 0,0:09:34.98,0:09:36.81,Gantari 34,原文,0,0,0,,but instead displayed a message:
-Dialogue: 1,0:09:34.98,0:09:36.81,黑 60,翻译,0,0,0,,只会显示一条信息
-Dialogue: 1,0:09:37.34,0:09:49.61,黑 60,翻译,0,0,0,,{\c&H09D100&\fad(0,6000)\pos(960,595.2)}{\k13\2c&H000000&\c&H0BEC00&\fnNoto Sans SC SemiBold\fs55\b1}我{\k13}是{\k13}佝{\k13}偻{\k13}的{\k13}怪{\k13}人 {\k10}有{\k19}本{\k19}事{\k19}就{\k19}来{\k19}抓{\k19}我
-Comment: 0,0:09:37.39,0:09:38.14,Gantari 34,原文,0,0,0,,"I'm the creeper."
-Comment: 0,0:09:38.76,0:09:40.03,Gantari 34,原文,0,0,0,,"Catch Me If You Can."
-Dialogue: 0,0:09:41.00,0:09:42.24,Gantari 34,原文,0,0,0,,It's actually kind of funny.
-Dialogue: 1,0:09:41.00,0:09:42.24,黑 60,翻译,0,0,0,,这其实有点好笑
-Dialogue: 0,0:09:42.24,0:09:44.56,Gantari 34,原文,0,0,0,,Because this playful yet disruptive act
-Dialogue: 1,0:09:42.24,0:09:44.56,黑 60,翻译,0,0,0,,因为这种找了乐子惹了麻烦的行为
-Dialogue: 0,0:09:44.56,0:09:49.61,Gantari 34,原文,0,0,0,,foreshadowed the cat and mouse game between hackers and security professionals that continues to this day.
-Dialogue: 1,0:09:44.56,0:09:49.61,黑 60,翻译,0,0,0,,预示了黑客和安全专家之间持续至今的猫鼠游戏
-Dialogue: 0,0:09:50.73,0:09:56.88,Gantari 34,原文,0,0,0,,The 1970s marked a turning point, as hackers began to forge their own identity and beliefs.
-Dialogue: 1,0:09:50.73,0:09:56.88,黑 60,翻译,0,0,0,,20 世纪 70 年代是黑客们形成身份认同和信仰的转折点
-Dialogue: 0,0:09:56.88,0:10:00.65,Gantari 34,原文,0,0,0,,Rumblings of what would become known as the free software movement began to circulate.
-Dialogue: 1,0:09:56.88,0:10:00.65,黑 60,翻译,0,0,0,,人们开始口耳相传 聊些我们后来称为“自由软件运动”的事情
-Dialogue: 0,0:10:00.65,0:10:03.29,Gantari 34,原文,0,0,0,,Essential books that shaped hacker culture were published.
-Dialogue: 1,0:10:00.65,0:10:03.29,黑 60,翻译,0,0,0,,很多塑造了黑客文化的书也出版了
-Dialogue: 0,0:10:03.29,0:10:06.81,Gantari 34,原文,0,0,0,,The decade even saw the emergence of something called the Jargon File,
-Dialogue: 1,0:10:03.29,0:10:06.81,黑 60,翻译,0,0,0,,在这十年里甚至出现了叫做“黑话文档”的东西
-Dialogue: 0,0:10:06.81,0:10:11.04,Gantari 34,原文,0,0,0,,which acted as a dictionary of slang used by hackers and computer programmers.
-Dialogue: 1,0:10:06.81,0:10:11.04,黑 60,翻译,0,0,0,,就是黑客和程序员的俚语词典
-Dialogue: 0,0:10:11.04,0:10:15.64,Gantari 34,原文,0,0,0,,It was things like this that further solidified the community's shared language and values.
-Dialogue: 1,0:10:11.04,0:10:15.64,黑 60,翻译,0,0,0,,正是这种东西进一步巩固了社群的共同语言和价值观
-Dialogue: 0,0:10:15.64,0:10:18.92,Gantari 34,原文,0,0,0,,However, the one thing the culture lacked during this moment in time
-Dialogue: 1,0:10:15.64,0:10:18.92,黑 60,翻译,0,0,0,,然而 此时整个文化社群还缺少一个东西
-Dialogue: 0,0:10:18.92,0:10:20.52,Gantari 34,原文,0,0,0,,was a central meeting ground.
-Dialogue: 1,0:10:18.92,0:10:20.52,黑 60,翻译,0,0,0,,一个聚会中心
-Dialogue: 0,0:10:20.52,0:10:22.05,Gantari 34,原文,0,0,0,,Sure, ARPANET existed.
-Dialogue: 1,0:10:20.52,0:10:22.05,黑 60,翻译,0,0,0,,确实 当时已经有阿帕网了
-Dialogue: 0,0:10:22.05,0:10:26.56,Gantari 34,原文,0,0,0,,But again, it was usually restricted to institutions funded by the US government.
-Dialogue: 1,0:10:22.05,0:10:26.56,黑 60,翻译,0,0,0,,但梅开二度 网络通常只有美国政府资助的机构才能使用
-Dialogue: 0,0:10:26.56,0:10:30.69,Gantari 34,原文,0,0,0,,Local meet-ups like The Homebrew Computer Club offered some networking opportunities,
-Dialogue: 0,0:10:26.56,0:10:34.54,黑 40,注释,0,0,0,,Homebrew Computer Club: Jobs 和 Wozniak 等人参与的计算机爱好者团体\N私酿的概念来源于美国 20 世纪 20 年代的禁酒令\N官方认定酒为非法产品，然而人们发现酿酒的材料是合法的\N于是美国家庭购买原料并在家中制造私酿酒\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Homebrew_Computer_Club\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Homebrewing
-Dialogue: 1,0:10:26.56,0:10:30.69,黑 60,翻译,0,0,0,,像“私酿计算机俱乐部”这样的线下聚会提供了一些上网的机会
-Dialogue: 0,0:10:30.85,0:10:34.54,Gantari 34,原文,0,0,0,,but their accessibility was limited only to those who could physically attend.
-Dialogue: 1,0:10:30.90,0:10:34.54,黑 60,翻译,0,0,0,,但也只有能亲自参加聚会的人才可以接入网络
-Dialogue: 0,0:10:35.13,0:10:39.03,Gantari 34,原文,0,0,0,,The good news was, it wouldn't take too long to fill this cultural void.
-Dialogue: 1,0:10:35.13,0:10:39.03,黑 60,翻译,0,0,0,,好消息是 再过不久这块空白就被填上了
-Dialogue: 0,0:10:39.03,0:10:40.27,Gantari 34,原文,0,0,0,,In 1978,
-Dialogue: 1,0:10:39.03,0:10:40.27,黑 60,翻译,0,0,0,,1978 年
-Dialogue: 0,0:10:40.27,0:10:44.39,Gantari 34,原文,0,0,0,,two guys from Chicago developed something called computer bulletin board systems,
-Comment: 1,0:10:40.27,0:10:44.39,黑 60 带小字,翻译,0,0,0,karaoke,芝加哥来的两个人开发了一种叫做“{\k0}计算机布告栏系统|BBS{\k0}”的东西{\fs40}
-Dialogue: 0,0:10:40.27,0:10:44.39,黑 60 带小字,翻译,0,0,0,fx,{\pos(380,1010)\an5}
-Dialogue: 0,0:10:40.27,0:10:44.39,黑 60 带小字,翻译,0,0,0,fx,{\pos(711,1010)\an5}芝加哥来的两个人开发了一种叫做“
-Dialogue: 0,0:10:40.27,0:10:44.39,黑 60 带小字,翻译,0,0,0,fx,{\pos(1209,1010)\an5}计算机布告栏系统
-Dialogue: 0,0:10:40.27,0:10:44.39,黑 60 带小字,翻译,0,0,0,fx,{\pos(1457,1010)\an5}”的东西
-Dialogue: 0,0:10:40.27,0:10:44.39,黑 60 带小字-furigana,翻译,0,0,0,fx,{\pos(1209,970)\an5}BBS
-Dialogue: 0,0:10:44.39,0:10:47.35,Gantari 34,原文,0,0,0,,serving as the first virtual meeting place for early hackers.
-Dialogue: 1,0:10:44.39,0:10:47.35,黑 60,翻译,0,0,0,,用以充当早期黑客的第一个虚拟聚会场所
-Dialogue: 0,0:10:47.35,0:10:49.93,Gantari 34,原文,0,0,0,,BBS allowed users to dial in with their modems,
-Comment: 1,0:10:47.35,0:10:49.93,黑 60 带小字,翻译,0,0,0,karaoke,用户可以用{\k0}调制解调器|光猫{\k0}接入 BBS
-Dialogue: 0,0:10:47.35,0:10:49.93,黑 60 带小字,翻译,0,0,0,fx,{\pos(667,1010)\an5}
-Dialogue: 0,0:10:47.35,0:10:49.93,黑 60 带小字,翻译,0,0,0,fx,{\pos(771,1010)\an5}用户可以用
-Dialogue: 0,0:10:47.35,0:10:49.93,黑 60 带小字,翻译,0,0,0,fx,{\pos(978,1010)\an5}调制解调器
-Dialogue: 0,0:10:47.35,0:10:49.93,黑 60 带小字,翻译,0,0,0,fx,{\pos(1167,1010)\an5}接入 BBS
-Dialogue: 0,0:10:47.35,0:10:49.93,黑 60 带小字-furigana,翻译,0,0,0,fx,{\pos(978,970)\an5}光猫
-Dialogue: 0,0:10:49.93,0:10:53.58,Gantari 34,原文,0,0,0,,exchange messages, share software, and participate in discussions,
-Dialogue: 1,0:10:49.93,0:10:53.58,黑 60,翻译,0,0,0,,交换信息、共享软件、参与讨论
-Dialogue: 0,0:10:53.58,0:10:57.70,Gantari 34,原文,0,0,0,,laying the groundwork for the incoming rise of the hacker groups.
-Dialogue: 1,0:10:53.58,0:10:57.70,黑 60,翻译,0,0,0,,这为即将流行的黑客小组奠定了基础
-Dialogue: 1,0:11:03.64,0:11:08.39,黑 60 紫,翻译,0,0,0,,{\fad(0, 1200)}感谢收看！请期待下一集！
+Comment: 0,0:00:00.01,0:00:00.01,翻译 黑 带小字,,0,0,0,template furi,{\pos($scenter,!$bottom-8!)\an5}
+Comment: 0,0:00:00.01,0:00:00.01,翻译 黑 带小字,,0,0,0,template,{\pos($scenter,$middle)\an5}
+Dialogue: 0,0:00:02.89,0:00:05.28,原文 Gantari,原文,0,0,0,,{\fad(800,0)}On January 8th, in 1986,
+Dialogue: 0,0:00:05.28,0:00:09.45,原文 Gantari,原文,0,0,0,,a short essay titled "The Conscience of a Hacker" was shared online.
+Dialogue: 0,0:00:09.45,0:00:13.00,原文 Gantari,原文,0,0,0,,It was written shortly after the arrest of a hacker known as The Mentor,
+Dialogue: 0,0:00:13.00,0:00:15.81,原文 Gantari,原文,0,0,0,,an attempt to define the hacker ethos.
+Dialogue: 0,0:00:16.29,0:00:18.35,原文 Gantari,原文,0,0,0,,The end of the essay states the following:
+Dialogue: 0,0:00:19.16,0:00:21.16,原文 Gantari,原文,0,0,0,,"We seek after knowledge,"
+Dialogue: 0,0:00:21.16,0:00:22.80,原文 Gantari,原文,0,0,0,,"and you call us criminals."
+Dialogue: 0,0:00:23.20,0:00:25.74,原文 Gantari,原文,0,0,0,,"We exist without skin color, without nationality,"
+Dialogue: 0,0:00:25.75,0:00:27.62,原文 Gantari,原文,0,0,0,,"without religious bias,"
+Dialogue: 0,0:00:27.62,0:00:29.78,原文 Gantari,原文,0,0,0,,"and you call us criminals."
+Dialogue: 0,0:00:29.78,0:00:31.48,原文 Gantari,原文,0,0,0,,"Yes, I am a criminal,"
+Dialogue: 0,0:00:32.11,0:00:34.41,原文 Gantari,原文,0,0,0,,"my crime is that of curiosity."
+Dialogue: 0,0:00:34.94,0:00:38.43,原文 Gantari,原文,0,0,0,,"You may stop me, but you can't stop us all."
+Dialogue: 0,0:00:40.21,0:00:41.20,原文 Gantari,原文,0,0,0,,"That's cool."
+Dialogue: 0,0:00:42.20,0:00:43.67,原文 Gantari,原文,0,0,0,,All right, there are three different kinds:
+Dialogue: 0,0:00:43.67,0:00:45.27,原文 Gantari,原文,0,0,0,,there's white hat - the good guys,
+Dialogue: 0,0:00:45.27,0:00:47.23,原文 Gantari,原文,0,0,0,,there's gray hat - the good and bad guys,
+Dialogue: 0,0:00:47.23,0:00:48.27,原文 Gantari,原文,0,0,0,,and then there's black hat -
+Dialogue: 0,0:00:48.81,0:00:50.82,原文 Gantari,原文,0,0,0,,just the bad guys.
+Dialogue: 0,0:00:50.82,0:00:53.63,原文 Gantari,原文,0,0,0,,They're comprised of coders, engineers, social engineers,
+Dialogue: 0,0:00:53.63,0:00:57.33,原文 Gantari,原文,0,0,0,,activists, network specialists, scammers,
+Dialogue: 0,0:00:57.33,0:00:58.95,原文 Gantari,原文,0,0,0,,crackers, and exploiters.
+Dialogue: 0,0:00:58.95,0:01:01.21,原文 Gantari,原文,0,0,0,,Some of them work alone, some of them work in groups.
+Dialogue: 0,0:01:01.21,0:01:03.04,原文 Gantari,原文,0,0,0,,And some of them even work for the government,
+Dialogue: 0,0:01:04.21,0:01:05.75,原文 Gantari,原文,0,0,0,,I mean until they don't.
+Dialogue: 0,0:01:05.75,0:01:06.79,原文 Gantari,原文,0,0,0,,They're the outcasts,
+Dialogue: 0,0:01:06.79,0:01:08.04,原文 Gantari,原文,0,0,0,,the antisocial nerds,
+Dialogue: 0,0:01:08.04,0:01:10.30,原文 Gantari,原文,0,0,0,,the losers with computers.
+Dialogue: 0,0:01:10.31,0:01:12.95,原文 Gantari,原文,0,0,0,,But, they're also the ones who got rich off Bitcoin,
+Dialogue: 0,0:01:12.95,0:01:15.67,原文 Gantari,原文,0,0,0,,the ones who throw a crazy party in Las Vegas every year,
+Dialogue: 0,0:01:15.67,0:01:18.30,原文 Gantari,原文,0,0,0,,the ones who start billion-dollar tech companies,
+Dialogue: 0,0:01:18.30,0:01:21.04,原文 Gantari,原文,0,0,0,,the ones who steal millions of dollars from those tech companies.
+Dialogue: 0,0:01:21.38,0:01:23.94,原文 Gantari,原文,0,0,0,,They're the ones who have changed the world.
+Dialogue: 0,0:01:23.94,0:01:26.10,原文 Gantari,原文,0,0,0,,They are the hackers.
+Dialogue: 0,0:01:27.44,0:01:29.24,原文 Gantari,原文,0,0,0,,But how did we even get here?
+Dialogue: 0,0:01:34.24,0:01:37.46,原文 Gantari,原文,0,0,0,,Our story begins right at the start of what many now call
+Dialogue: 0,0:01:37.46,0:01:38.46,原文 Gantari,原文,0,0,0,,the culture decade.
+Dialogue: 0,0:01:44.63,0:01:46.19,原文 Gantari,原文,0,0,0,,In the early 1960s,
+Dialogue: 0,0:01:46.19,0:01:48.29,原文 Gantari,原文,0,0,0,,a rebellious and transformative culture
+Dialogue: 0,0:01:48.29,0:01:52.38,原文 Gantari,原文,0,0,0,,took root within the prestigious halls of the Massachusetts Institute of Technology.
+Dialogue: 0,0:01:52.59,0:01:55.99,原文 Gantari,原文,0,0,0,,The beginning of hacker culture started on campus in Building 20,
+Dialogue: 0,0:01:55.99,0:01:59.72,原文 Gantari,原文,0,0,0,,a structure which has since been deemed "The Magical Incubator".
+Dialogue: 0,0:01:59.72,0:02:01.13,原文 Gantari,原文,0,0,0,,Located on the third floor,
+Dialogue: 0,0:02:01.13,0:02:05.33,原文 Gantari,原文,0,0,0,,you could find a crowded classroom that space was absolutely dominated
+Dialogue: 0,0:02:05.33,0:02:08.19,原文 Gantari,原文,0,0,0,,by a carefully constructed layout of model train tracks.
+Dialogue: 0,0:02:08.56,0:02:13.60,原文 Gantari,原文,0,0,0,,This space was the home to MIT's very own Tech Model Railroad Club.
+Dialogue: 0,0:02:13.60,0:02:16.20,原文 Gantari,原文,0,0,0,,The club consisted of different groups that worked together
+Dialogue: 0,0:02:16.20,0:02:20.49,原文 Gantari,原文,0,0,0,,towards their common goal of automating the operation of model trains.
+Dialogue: 0,0:02:20.49,0:02:23.37,原文 Gantari,原文,0,0,0,,Some focused on crafting historical train replicas,
+Dialogue: 0,0:02:23.37,0:02:25.05,原文 Gantari,原文,0,0,0,,others on scenery and buildings,
+Dialogue: 0,0:02:25.05,0:02:27.01,原文 Gantari,原文,0,0,0,,but it was one group in particular,
+Dialogue: 0,0:02:27.01,0:02:29.26,原文 Gantari,原文,0,0,0,,the signals and power subcommittee,
+Dialogue: 0,0:02:29.26,0:02:32.32,原文 Gantari,原文,0,0,0,,who were responsible for first popularizing the term:
+Dialogue: 0,0:02:32.33,0:02:33.25,原文 Gantari,原文,0,0,0,,"hacker."
+Dialogue: 0,0:02:33.26,0:02:37.27,原文 Gantari,原文,0,0,0,,this group was mainly responsible for creating the circuits that operated the trains
+Dialogue: 0,0:02:37.27,0:02:40.35,原文 Gantari,原文,0,0,0,,they were basically the engineers behind the whole operation.
+Dialogue: 0,0:02:40.35,0:02:44.01,原文 Gantari,原文,0,0,0,,One member of the subcommittee was a guy named Peter Samson
+Dialogue: 0,0:02:44.01,0:02:49.60,原文 Gantari,原文,0,0,0,,Now it's important to understand that Peter was absolutely obsessed with electronics and automation,
+Dialogue: 0,0:02:49.60,0:02:52.81,原文 Gantari,原文,0,0,0,,and he was always looking for new ways to be creative
+Dialogue: 0,0:02:52.81,0:02:56.89,原文 Gantari,原文,0,0,0,,and pioneer new systems, to operate model trains within the TMRC.
+Dialogue: 0,0:02:58.60,0:03:01.20,原文 Gantari,原文,0,0,0,,He was also someone who loved to explore.
+Dialogue: 0,0:03:04.15,0:03:06.70,原文 Gantari,原文,0,0,0,,One {\i1}fateful night{\i0} around 2:00 in the morning,
+Dialogue: 0,0:03:06.70,0:03:09.96,原文 Gantari,原文,0,0,0,,he roamed the basement hallways of Building 26
+Dialogue: 0,0:03:09.96,0:03:11.55,原文 Gantari,原文,0,0,0,,in search of something intriguing.
+Dialogue: 0,0:03:11.55,0:03:15.87,原文 Gantari,原文,0,0,0,,Little did he know that this nocturnal exploration would lead him to a discovery,
+Dialogue: 0,0:03:15.87,0:03:18.67,原文 Gantari,原文,0,0,0,,propelling him into a new realm of creativity
+Dialogue: 0,0:03:18.67,0:03:21.01,原文 Gantari,原文,0,0,0,,and even the beginning of a new lifestyle.
+Dialogue: 0,0:03:21.50,0:03:26.25,原文 Gantari,原文,0,0,0,,Upon entering an area that was labeled the Electronic Accounting Machinery Room,
+Dialogue: 0,0:03:26.25,0:03:29.85,原文 Gantari,原文,0,0,0,,Peter caught his first glimpse of an IBM 704,
+Dialogue: 0,0:03:29.85,0:03:34.22,原文 Gantari,原文,0,0,0,,a multi-million dollar mainframe that took up almost the entirety of the space.
+Dialogue: 0,0:03:34.74,0:03:38.33,原文 Gantari,原文,0,0,0,,Now, Peter was definitely not supposed to be here,
+Dialogue: 0,0:03:38.33,0:03:41.11,原文 Gantari,原文,0,0,0,,as the room was usually heavily staffed during the day,
+Dialogue: 0,0:03:41.11,0:03:46.67,原文 Gantari,原文,0,0,0,,and only people with official security clearance from MIT, were allowed to operate the computer in the first place.
+Dialogue: 0,0:03:47.56,0:03:48.56,原文 Gantari,原文,0,0,0,,But...
+Dialogue: 0,0:03:48.56,0:03:50.32,原文 Gantari,原文,0,0,0,,no one was ever there at 2 a.m.
+Dialogue: 0,0:03:50.72,0:03:53.07,原文 Gantari,原文,0,0,0,,Alongside other members of the TMRC,
+Dialogue: 0,0:03:53.07,0:03:56.75,原文 Gantari,原文,0,0,0,,Peter would regularly sneak into the basement of Building 26 at night
+Dialogue: 0,0:03:56.75,0:04:00.19,原文 Gantari,原文,0,0,0,,to use the computer and other devices held by the EAM room.
+Dialogue: 0,0:04:00.63,0:04:05.89,原文 Gantari,原文,0,0,0,,These acts of defiance would mark the beginning of hacker culture as we now know it today.
+Dialogue: 0,0:04:05.89,0:04:09.13,原文 Gantari,原文,0,0,0,,Machine time was extremely, tight.
+Dialogue: 0,0:04:09.13,0:04:09.93,原文 Gantari,原文,0,0,0,,Uh...
+Dialogue: 0,0:04:09.93,0:04:11.84,原文 Gantari,原文,0,0,0,,They found times in the middle of the night,
+Dialogue: 0,0:04:11.84,0:04:14.27,原文 Gantari,原文,0,0,0,,maybe in unlocked computer rooms where they could do these things.
+Dialogue: 0,0:04:14.27,0:04:15.78,原文 Gantari,原文,0,0,0,,The liberal arts majors, {\s1\b0}who{\s0\b1}
+Dialogue: 0,0:04:15.78,0:04:18.04,原文 Gantari,原文,0,0,0,,whose only computer time available was if they
+Dialogue: 0,0:04:18.04,0:04:20.91,原文 Gantari,原文,0,0,0,,gummed up the locks and sneak into the building late at night
+Dialogue: 0,0:04:20.91,0:04:22.78,原文 Gantari,原文,0,0,0,,because they weren't allowed to sign up for this stuff
+Dialogue: 0,0:04:22.78,0:04:28.98,原文 Gantari,原文,0,0,0,,The people that took a systematic approach toward the development of {\s1}uh{\s0} computer software
+Dialogue: 0,0:04:28.98,0:04:30.07,原文 Gantari,原文,0,0,0,,missed the boat.
+Dialogue: 0,0:04:30.07,0:04:33.86,原文 Gantari,原文,0,0,0,,It was a trial and error (for) people working illegally, in the underground
+Dialogue: 0,0:04:33.86,0:04:35.44,原文 Gantari,原文,0,0,0,,This move made most (of) the advances.
+Dialogue: 0,0:04:37.33,0:04:41.44,原文 Gantari,原文,0,0,0,,In the following years, the TMRC would continue tinkering with computer technology
+Dialogue: 0,0:04:41.44,0:04:43.68,原文 Gantari,原文,0,0,0,,whether they had permission or not.
+Dialogue: 0,0:04:44.22,0:04:45.59,原文 Gantari,原文,0,0,0,,But to be honest,
+Dialogue: 0,0:04:45.59,0:04:48.51,原文 Gantari,原文,0,0,0,,using model trains as your excuse to be a hacker,
+Dialogue: 0,0:04:48.51,0:04:50.93,原文 Gantari,原文,0,0,0,,could really only get you so far.
+Dialogue: 0,0:04:50.93,0:04:56.25,原文 Gantari,原文,0,0,0,,Subsequently, many TMRC members that were a part of the Signals and Power Subcommittee
+Dialogue: 0,0:04:56.25,0:04:59.75,原文 Gantari,原文,0,0,0,,went on to join MIT's Artificial Intelligence Lab.
+Dialogue: 0,0:04:59.75,0:05:03.08,原文 Gantari,原文,0,0,0,,Led by the MIT Lab Director Marvin Minsky,
+Dialogue: 0,0:05:03.08,0:05:05.49,原文 Gantari,原文,0,0,0,,these early hackers had found a supportive mentor.
+Dialogue: 0,0:05:07.08,0:05:11.93,原文 Gantari,原文,0,0,0,,Impressed by their determination, Minsky allowed them direct access to the machines.
+Dialogue: 0,0:05:12.29,0:05:15.36,原文 Gantari,原文,0,0,0,,And with that, the lab members went to work.
+Dialogue: 0,0:05:15.36,0:05:18.22,原文 Gantari,原文,0,0,0,,Among the many achievements of the MIT AI Lab
+Dialogue: 0,0:05:18.23,0:05:20.30,原文 Gantari,原文,0,0,0,,was the creation of {\i1}Spacewar!{\i0},
+Dialogue: 0,0:05:20.30,0:05:24.58,原文 Gantari,原文,0,0,0,,one of the first video games predating {\i1}Pong{\i0} by a decade.
+Dialogue: 0,0:05:24.58,0:05:28.96,原文 Gantari,原文,0,0,0,,"So those stars is a part from Peter Samson wrote called {\\i1}Expensive Planetarium{\\i0}."
+Dialogue: 0,0:05:28.96,0:05:32.77,原文 Gantari,原文,0,0,0,,"And it's ..." (Laugh)
+Dialogue: 0,0:05:32.77,0:05:35.02,原文 Gantari,原文,0,0,0,,With the success of visionaries at MIT,
+Dialogue: 0,0:05:35.02,0:05:37.31,原文 Gantari,原文,0,0,0,,and as the 1960s unfolded,
+Dialogue: 0,0:05:37.31,0:05:40.59,原文 Gantari,原文,0,0,0,,the hacker ethos began to spread like wildfire,
+Dialogue: 0,0:05:40.59,0:05:44.78,原文 Gantari,原文,0,0,0,,igniting centers of innovation at universities across the nation.
+Dialogue: 0,0:05:44.78,0:05:49.41,原文 Gantari,原文,0,0,0,,From Carnegie Mellon to Stanford, the spirit of exploration thrived,
+Dialogue: 0,0:05:49.41,0:05:52.75,原文 Gantari,原文,0,0,0,,fostering a new breed of technological pioneers.
+Dialogue: 0,0:05:53.22,0:05:57.87,原文 Gantari,原文,0,0,0,,At this point, hacker culture seemed to be quite contained to the more academic circles,
+Dialogue: 0,0:05:57.87,0:06:00.77,原文 Gantari,原文,0,0,0,,and it actually seemed like it was going to stay that way for a while.
+Dialogue: 0,0:06:00.77,0:06:06.82,原文 Gantari,原文,0,0,0,,But it wasn't long until hacking spawned the comp-sci student dropout cliché, that we know all too well today.
+Dialogue: 0,0:06:07.37,0:06:08.49,原文 Gantari,原文,0,0,0,,It all starts
+Dialogue: 0,0:06:08.49,0:06:09.50,原文 Gantari,原文,0,0,0,,with the telephone.
+Dialogue: 0,0:06:14.14,0:06:16.13,原文 Gantari,原文,0,0,0,,"You know, Steve was never like you or me,"
+Dialogue: 0,0:06:16.13,0:06:18.32,原文 Gantari,原文,0,0,0,,"he always saw things differently."
+Dialogue: 0,0:06:18.32,0:06:22.13,原文 Gantari,原文,0,0,0,,"Steve and I found this weird guy who was a hero around Berkeley,"
+Dialogue: 0,0:06:22.45,0:06:24.82,原文 Gantari,原文,0,0,0,,"all because he found a way to beat the system."
+Dialogue: 0,0:06:24.82,0:06:26.75,原文 Gantari,原文,0,0,0,,"This guy was called Captain Crunch"
+Dialogue: 0,0:06:26.75,0:06:28.02,原文 Gantari,原文,0,0,0,,"because he figured out,"
+Dialogue: 0,0:06:28.64,0:06:33.44,原文 Gantari,原文,0,0,0,,"this little whistle that you found in boxes of Cap'n Crunch cereal"
+Dialogue: 0,0:06:33.44,0:06:36.61,原文 Gantari,原文,0,0,0,,"had the same tones as AT&T's long-distance equipment."
+Dialogue: 0,0:06:37.12,0:06:42.79,原文 Gantari,原文,0,0,0,,"So you got free phone calls anywhere in the world, {\s1}with{\s0} with this thing I built called the blue box."
+Dialogue: 0,0:06:42.79,0:06:45.00,原文 Gantari,原文,0,0,0,,"And then we tested it out by calling the Pope."
+Dialogue: 0,0:06:45.00,0:06:45.90,原文 Gantari,原文,0,0,0,,"You talk."
+Dialogue: 0,0:06:45.90,0:06:48.30,原文 Gantari,原文,0,0,0,,"No, no, they're not putting you through to the Pope, are they?"
+Dialogue: 0,0:06:48.30,0:06:51.99,原文 Gantari,原文,0,0,0,,There was a huge culture shift when John Draper, also known as Captain Crunch,
+Dialogue: 0,0:06:51.99,0:06:54.51,原文 Gantari,原文,0,0,0,,helped pioneer the world of phone phreaking
+Dialogue: 0,0:06:54.51,0:06:55.85,原文 Gantari,原文,0,0,0,,By blowing into that toy whistle.
+Dialogue: 0,0:06:56.04,0:06:57.24,原文 Gantari,原文,0,0,0,,{\i1}*beep{\i0}
+Dialogue: 0,0:06:57.24,0:06:59.81,原文 Gantari,原文,0,0,0,,Draper and countless others fooled the phone company,
+Dialogue: 0,0:06:59.81,0:07:02.27,原文 Gantari,原文,0,0,0,,and made free calls all around the world.
+Dialogue: 0,0:07:02.27,0:07:06.53,原文 Gantari,原文,0,0,0,,When the two Steves began developing and distributing the aforementioned blue boxes,
+Dialogue: 0,0:07:06.53,0:07:10.95,原文 Gantari,原文,0,0,0,,it actually marked one of the first times hacker culture garnered attention from the mainstream media.
+Dialogue: 0,0:07:10.95,0:07:14.67,原文 Gantari,原文,0,0,0,,When Esquire magazine wrote about it in a 1971 article,
+Dialogue: 0,0:07:14.67,0:07:15.92,原文 Gantari,原文,0,0,0,,released in the same year.
+Dialogue: 0,0:07:15.92,0:07:19.95,原文 Gantari,原文,0,0,0,,Freaking was also covered prominently in Abby Hoffman's now infamous publication,
+Dialogue: 0,0:07:19.95,0:07:21.01,原文 Gantari,原文,0,0,0,,"Steal This Book."
+Dialogue: 0,0:07:21.01,0:07:24.13,原文 Gantari,原文,0,0,0,,Now to be clear, freaking wasn't just about making free calls,
+Dialogue: 0,0:07:24.13,0:07:26.30,原文 Gantari,原文,0,0,0,,not to the hackers back then at least.
+Dialogue: 0,0:07:26.30,0:07:29.05,原文 Gantari,原文,0,0,0,,Freaking was a new way to learn how the phone network worked,
+Dialogue: 0,0:07:29.05,0:07:30.78,原文 Gantari,原文,0,0,0,,a way to pull some harmless pranks,
+Dialogue: 0,0:07:30.78,0:07:33.76,原文 Gantari,原文,0,0,0,,a way to build a community within a growing subculture,
+Dialogue: 0,0:07:33.76,0:07:35.02,原文 Gantari,原文,0,0,0,,and in some cases,
+Dialogue: 0,0:07:35.44,0:07:38.14,原文 Gantari,原文,0,0,0,,a way to just simply stick it to the man.
+Dialogue: 0,0:07:38.97,0:07:41.95,原文 Gantari,原文,0,0,0,,Honestly, it can be argued that freaking turned out to be
+Dialogue: 0,0:07:41.95,0:07:46.98,原文 Gantari,原文,0,0,0,,one of, if not the most influential aspects of hacker culture we've seen to date.
+Dialogue: 0,0:07:46.98,0:07:49.40,原文 Gantari,原文,0,0,0,,With Steve Jobs even going as far as to say that,
+Dialogue: 0,0:07:49.40,0:07:51.59,原文 Gantari,原文,0,0,0,,"if it had not been for Wozniak's blue boxes,"
+Dialogue: 0,0:07:51.59,0:07:52.84,原文 Gantari,原文,0,0,0,,"there wouldn't have been an Apple."
+Dialogue: 0,0:07:53.32,0:07:55.74,原文 Gantari,原文,0,0,0,,This isn't the last time freaking will come up in this video,
+Dialogue: 0,0:07:55.74,0:07:58.36,原文 Gantari,原文,0,0,0,,as it definitely continued to evolve over the years.
+Dialogue: 0,0:07:58.68,0:07:59.47,原文 Gantari,原文,0,0,0,,But for now,
+Dialogue: 0,0:07:59.84,0:08:02.08,原文 Gantari,原文,0,0,0,,let's go back to the topic of computers.
+Dialogue: 0,0:08:06.34,0:08:07.50,原文 Gantari,原文,0,0,0,,"What's the mail this morning?"
+Dialogue: 0,0:08:07.66,0:08:10.16,原文 Gantari,原文,0,0,0,,"This one looks interesting, let's uh take a look at this."
+Dialogue: 0,0:08:10.16,0:08:11.88,原文 Gantari,原文,0,0,0,,"I'm going to need a couple of copies of this."
+Dialogue: 0,0:08:11.88,0:08:15.33,原文 Gantari,原文,0,0,0,,"You'll have a television screen like this here, and a keyboard."
+Dialogue: 0,0:08:15.33,0:08:17.16,原文 Gantari,原文,0,0,0,,"And you'll talk to the computer, get information from it,"
+Dialogue: 0,0:08:17.16,0:08:19.35,原文 Gantari,原文,0,0,0,,"and you'll take it as much for granted as we take the telephone."
+Dialogue: 0,0:08:19.35,0:08:22.47,原文 Gantari,原文,0,0,0,,"I wonder that what sort of a life would it be like in social terms?"
+Dialogue: 0,0:08:23.28,0:08:25.02,原文 Gantari,原文,0,0,0,,"Their whole life is built around the computer."
+Dialogue: 0,0:08:25.02,0:08:27.03,原文 Gantari,原文,0,0,0,,"Do we become a computer-dependent society?"
+Dialogue: 0,0:08:27.03,0:08:29.86,原文 Gantari,原文,0,0,0,,"In some ways, but they {\s1}eh{\s0} would also enrich our society,"
+Dialogue: 0,0:08:29.86,0:08:31.17,原文 Gantari,原文,0,0,0,,"and this is a wonderful thing."
+Dialogue: 0,0:08:31.17,0:08:33.02,原文 Gantari,原文,0,0,0,,As the 1970s progressed,
+Dialogue: 0,0:08:33.02,0:08:36.07,原文 Gantari,原文,0,0,0,,so did the interconnectedness of computer networks.
+Dialogue: 0,0:08:36.07,0:08:40.38,原文 Gantari,原文,0,0,0,,The rise of ARPANET provided a new frontier for exploration and experimentation.
+Dialogue: 0,0:08:40.84,0:08:43.27,原文 Gantari,原文,0,0,0,,I'll try not to bore you, but for those unfamiliar,
+Dialogue: 0,0:08:43.27,0:08:47.46,原文 Gantari,原文,0,0,0,,ARPANET was a computer network that helped lay the groundwork for the modern Internet.
+Dialogue: 0,0:08:47.46,0:08:49.22,原文 Gantari,原文,0,0,0,,It started out in the late '60s,
+Dialogue: 0,0:08:49.22,0:08:53.01,原文 Gantari,原文,0,0,0,,mostly being used by research institutions and government agencies.
+Dialogue: 0,0:08:53.01,0:08:55.47,原文 Gantari,原文,0,0,0,,Along the way, it helped define how file sharing works
+Dialogue: 0,0:08:55.47,0:08:58.55,原文 Gantari,原文,0,0,0,,and was even used to send and receive the first email.
+Dialogue: 0,0:08:58.55,0:09:00.24,原文 Gantari,原文,0,0,0,,The network was pretty small initially,
+Dialogue: 0,0:09:00.24,0:09:03.68,原文 Gantari,原文,0,0,0,,but as it grew, it quickly became a playground for hackers
+Dialogue: 0,0:09:03.68,0:09:06.94,原文 Gantari,原文,0,0,0,,eager to push the boundaries of technology and communication.
+Dialogue: 0,0:09:07.36,0:09:09.31,原文 Gantari,原文,0,0,0,,ARPANET also just happened to be
+Dialogue: 0,0:09:09.31,0:09:11.54,原文 Gantari,原文,0,0,0,,the first computer network to get infected.
+Dialogue: 0,0:09:12.18,0:09:19.13,原文 Gantari,原文,0,0,0,,In 1971, a computer scientist by the name of Bob Thomas created what is widely accepted as the first computer virus,
+Dialogue: 0,0:09:19.13,0:09:21.04,原文 Gantari,原文,0,0,0,,now known as the Creeper virus.
+Dialogue: 0,0:09:21.04,0:09:25.16,原文 Gantari,原文,0,0,0,,This computer worm replicated itself and spread to other systems using ARPANET.
+Dialogue: 0,0:09:25.16,0:09:28.57,原文 Gantari,原文,0,0,0,,It was developed by Bob while working at a technology research firm,
+Dialogue: 0,0:09:28.57,0:09:30.25,原文 Gantari,原文,0,0,0,,and unlike most viruses,
+Dialogue: 0,0:09:30.25,0:09:32.63,原文 Gantari,原文,0,0,0,,it wasn't made with any malicious intent.
+Dialogue: 0,0:09:32.63,0:09:34.98,原文 Gantari,原文,0,0,0,,The virus didn't cause any damage to your system,
+Dialogue: 0,0:09:34.98,0:09:36.81,原文 Gantari,原文,0,0,0,,but instead displayed a message:
+Comment: 0,0:09:37.39,0:09:38.14,原文 Gantari,原文,0,0,0,,"I'm the creeper."
+Comment: 0,0:09:38.76,0:09:40.03,原文 Gantari,原文,0,0,0,,"Catch Me If You Can."
+Dialogue: 0,0:09:41.00,0:09:42.24,原文 Gantari,原文,0,0,0,,It's actually kind of funny.
+Dialogue: 0,0:09:42.24,0:09:44.56,原文 Gantari,原文,0,0,0,,Because this playful yet disruptive act
+Dialogue: 0,0:09:44.56,0:09:49.61,原文 Gantari,原文,0,0,0,,foreshadowed the cat and mouse game between hackers and security professionals that continues to this day.
+Dialogue: 0,0:09:50.73,0:09:56.88,原文 Gantari,原文,0,0,0,,The 1970s marked a turning point, as hackers began to forge their own identity and beliefs.
+Dialogue: 0,0:09:56.88,0:10:00.65,原文 Gantari,原文,0,0,0,,Rumblings of what would become known as the free software movement began to circulate.
+Dialogue: 0,0:10:00.65,0:10:03.29,原文 Gantari,原文,0,0,0,,Essential books that shaped hacker culture were published.
+Dialogue: 0,0:10:03.29,0:10:06.81,原文 Gantari,原文,0,0,0,,The decade even saw the emergence of something called the Jargon File,
+Dialogue: 0,0:10:06.81,0:10:11.04,原文 Gantari,原文,0,0,0,,which acted as a dictionary of slang used by hackers and computer programmers.
+Dialogue: 0,0:10:11.04,0:10:15.64,原文 Gantari,原文,0,0,0,,It was things like this that further solidified the community's shared language and values.
+Dialogue: 0,0:10:15.64,0:10:18.92,原文 Gantari,原文,0,0,0,,However, the one thing the culture lacked during this moment in time
+Dialogue: 0,0:10:18.92,0:10:20.52,原文 Gantari,原文,0,0,0,,was a central meeting ground.
+Dialogue: 0,0:10:20.52,0:10:22.05,原文 Gantari,原文,0,0,0,,Sure, ARPANET existed.
+Dialogue: 0,0:10:22.05,0:10:26.56,原文 Gantari,原文,0,0,0,,But again, it was usually restricted to institutions funded by the US government.
+Dialogue: 0,0:10:26.56,0:10:30.69,原文 Gantari,原文,0,0,0,,Local meet-ups like The Homebrew Computer Club offered some networking opportunities,
+Dialogue: 0,0:10:30.85,0:10:34.54,原文 Gantari,原文,0,0,0,,but their accessibility was limited only to those who could physically attend.
+Dialogue: 0,0:10:35.13,0:10:39.03,原文 Gantari,原文,0,0,0,,The good news was, it wouldn't take too long to fill this cultural void.
+Dialogue: 0,0:10:39.03,0:10:40.27,原文 Gantari,原文,0,0,0,,In 1978,
+Dialogue: 0,0:10:40.27,0:10:44.39,原文 Gantari,原文,0,0,0,,two guys from Chicago developed something called computer bulletin board systems,
+Dialogue: 0,0:10:44.39,0:10:47.35,原文 Gantari,原文,0,0,0,,serving as the first virtual meeting place for early hackers.
+Dialogue: 0,0:10:47.35,0:10:49.93,原文 Gantari,原文,0,0,0,,BBS allowed users to dial in with their modems,
+Dialogue: 0,0:10:49.93,0:10:53.58,原文 Gantari,原文,0,0,0,,exchange messages, share software, and participate in discussions,
+Dialogue: 0,0:10:53.58,0:10:57.70,原文 Gantari,原文,0,0,0,,laying the groundwork for the incoming rise of the hacker groups.
+Dialogue: 0,0:01:33.57,0:01:38.45,翻译 黑,标注,0,0,0,,{\fnNoto Sans SC Black\pos(960,670)}火车模型
+Dialogue: 1,0:01:38.45,0:01:39.70,翻译 黑,标注,0,0,0,,波士顿\N20 世纪 60 年代
+Dialogue: 1,0:01:42.62,0:01:44.63,翻译 黑,标注,0,0,0,,{\fad(0,1000)}麻省理工学院
+Dialogue: 0,0:06:13.31,0:06:17.56,翻译 黑,标注,0,0,0,,{\fnNoto Sans SC Black\pos(960,670)}飞客和极客
+Dialogue: 0,0:06:17.56,0:06:18.35,翻译 黑,标注,0,0,0,,{\fs50\b1\pos(960,636)\fnNoto Serif SC SemiBold}不同凡想
+Dialogue: 0,0:06:53.43,0:06:54.51,翻译 黑,标注,0,0,0,,{\an5\fnNoto Sans SC Black\c&H17FF14&\pos(960,526.4)}电话飞客
+Dialogue: 0,0:00:00.00,0:00:05.28,注释,注释,0,0,0,,视频后续的注释部分会出现在这里，如果兴趣不大可以不用读www\N\NWoodash 个人翻译，水平有限，欢迎反馈\N如果喜欢该视频，请支持原作者\N\N{\fs30}Internet Underground | The Origins of Hacker Culture\Nhttps://www.youtube.com/watch?v=zBE9_kTFIro\N\N字幕文件在这里获取：\N (CC-BY-SA 4.0) https://github.com/WoodAsh2501/Woodash-kaorou{\fs40}\N
+Dialogue: 0,0:00:05.28,0:00:15.81,注释,注释,0,0,0,,原文: http://phrack.org/issues/7/3.html
+Dialogue: 0,0:01:37.46,0:01:44.63,注释,注释,0,0,0,,{\fad(0,1000)}指 20 世纪 60 年代，也被称为“反文化的年代”，与如下文化概念相关：\N摇滚乐英伦入侵、新浪潮电影、嬉皮士文化、迷幻剂 / 毒品文化\N新左翼、性解放、第二波女性主义运动、民权运动、反越战运动
+Dialogue: 0,0:04:30.07,0:04:35.44,注释,注释,0,0,0,,*没听明白（？
+Dialogue: 0,0:05:20.31,0:05:24.58,注释,注释,0,0,0,,{\pos(6.549,20)}《乓》是 Atari 公司于 1972 年发布的街机游戏，支持二人对战
+Dialogue: 0,0:05:20.31,0:05:24.58,注释,注释,0,0,0,,{\fs30\pos(20,66.4)}这是“乒乓”的“乓”字\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Pong
+Dialogue: 0,0:05:24.59,0:05:32.77,注释,注释,0,0,0,,昂贵天文馆是一个基于真实星图的程序，包括 22.5° N 到 22.5° S 中的所有亮于 5 视星等的恒星\N昂贵是说运行代码的 PDP-1 计算机比用投影仪的传统天文馆贵\NPDP-1 在当时的价格为 12 万美元，等价于 2024 年 8 月的 125 万美元，换算为 898 万人民币{\fs30}\N\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Spacewar!\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/PDP-1
+Dialogue: 0,0:06:00.77,0:06:06.82,注释,注释,0,0,0,,\N\N　　　　Steve Jobs\N　　　　Michael Dell\N　　　　Bill Gates\N　　　　Mark Zuckerberg\N　　　　Larry Ellison (1)\N　　　　{\alphaHFF}Larry Ellison {\alpha}(2nd.)
+Dialogue: 1,0:06:00.77,0:06:06.82,注释,注释,0,0,0,,严格来说真正的计科辍学并不是很多，不过扩展到计算机行业的不完全统计如下：\N苹果·　　　　　　　　　　 - 1 学期，里德学院，英语专业\N戴尔·　　　　　　　　　　 - 2 学期，得克萨斯大学奥斯汀分校，医学预科\N微软·　　　　　　　　　　 - 3 学期，哈佛大学，在选专业前退学，学了数学和计算机的课程\N脸书·　　　　　　　　　　 - 4 学期，哈佛大学，计算机科学与心理学\N甲骨文·　　　　　　　　　 - 4 学期，伊利诺伊大学厄巴纳-尚佩恩分校，医学预科\N　　　　　　　　　　　　　 - 1 学期，芝加哥大学，物理学与数学{\fs30}\N\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Steve_Jobs\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Michael_Dell\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Bill_Gates\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Mark_Zuckerberg\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Larry_Ellison
+Dialogue: 0,0:06:28.64,0:06:33.44,注释,注释,0,0,0,,Cap'n Crunch: 一个谷物品牌，主要产品有麦片、燕麦、脆饼等\N\N{\fs30}此词翻译引用自南方公园中文维基\N(CC-BY-SA 4.0) https://south-park.fandom.com/zh/wiki/脆脆船长
+Dialogue: 0,0:06:33.44,0:06:36.61,注释,注释,0,0,0,,AT&T: 美国最大的电话电信公司，前身是贝尔电话公司\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/AT&T
+Dialogue: 0,0:06:42.79,0:06:48.30,注释,注释,0,0,0,,Wozniak当时假冒美国国务卿 Henry Kissinger，代时任美国总统 Richard Nixon 打电话给罗马教宗\N当时教宗正在休息，随后他也被揭穿了\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Steve_Wozniak
+Dialogue: 0,0:07:02.27,0:07:06.53,注释,注释,0,0,0,,two Steves: 指 Steve Wozniak 和 Steve Jobs，二人都是苹果公司的创办者
+Dialogue: 0,0:07:19.95,0:07:26.30,注释,注释,0,0,0,,{\i1}Steal This Book:{\i0} 反主流文化的标志性书籍，是一本指导如何不择手段地反抗政府与公司的青年指南。\N“生存”部分介绍了如何免费或者低价获取生活资料，也包括乞讨、商店行窃等\N“战斗”部分介绍了如何创办地下报刊与电台，非暴力示威，如何制作自制炸弹，游击战等\N“解放”部分介绍了纽约、芝加哥、洛杉矶和旧金山四个城市的信息\N附录中记载了支持的组织和其他“值得偷的书”\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Steal_This_Book
+Dialogue: 0,0:09:19.13,0:09:25.16,注释,注释,0,0,0,,Creeper: 释义注重古怪、鬼祟与令人毛骨悚然，而直译的“爬行者”一词并无此倾向\N查询到艺术创作中 Creeper 与《巴黎圣母院》中 Quasimodo 的形象具有相似处\N仿照台译版“钟楼怪人”，译为“佝偻怪人”\N\N{\fs30}迪士尼相关百科页面中提及 Creeper (The Black Cauldron) 的早期概念形象看起来像 Quasimodo；使用搜索引擎并列搜索二词亦有相关联想\N(CC-BY-SA 4.0) https://disney.fandom.com/wiki/Creeper/Gallery
+Dialogue: 0,0:10:26.56,0:10:34.54,注释,注释,0,0,0,,Homebrew Computer Club: Jobs 和 Wozniak 等人参与的计算机爱好者团体\N私酿的概念来源于美国 20 世纪 20 年代的禁酒令\N官方认定酒为非法产品，然而人们发现酿酒的材料是合法的\N于是美国家庭购买原料并在家中制造私酿酒\N\N{\fs30}(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Homebrew_Computer_Club\N(CC-BY-SA 4.0) https://en.wikipedia.org/wiki/Homebrewing
+Dialogue: 1,0:00:02.89,0:00:05.28,翻译 黑,翻译,0,0,0,,{\fad(800,0)}1986 年，1 月 8 日
+Dialogue: 1,0:00:05.28,0:00:09.45,翻译 黑,翻译,0,0,0,,一篇题为《黑客道德》的短文被大量转发
+Dialogue: 1,0:00:09.45,0:00:13.00,翻译 黑,翻译,0,0,0,,化名“导师”的黑客在被捕后写了这篇文章
+Dialogue: 1,0:00:13.00,0:00:15.81,翻译 黑,翻译,0,0,0,,他在文中尝试定义了黑客的精神
+Dialogue: 1,0:00:16.29,0:00:18.35,翻译 黑,翻译,0,0,0,,文章结尾处写道：
+Dialogue: 1,0:00:19.16,0:00:21.16,翻译 黑,翻译,0,0,0,,“我们寻求知识”
+Dialogue: 1,0:00:21.16,0:00:22.80,翻译 黑,翻译,0,0,0,,“你们却说我们是{\c&H00FF08&}罪犯{\c}”
+Dialogue: 1,0:00:23.20,0:00:25.74,翻译 黑,翻译,0,0,0,,“我们不论{\c&H00FF08&}肤色{\c}，不论{\c&H00FF08&}国籍{\c}”
+Dialogue: 1,0:00:25.75,0:00:27.62,翻译 黑,翻译,0,0,0,,“不论{\c&H00FF08&}宗教异同{\c}”
+Dialogue: 1,0:00:27.62,0:00:29.78,翻译 黑,翻译,0,0,0,,“你们却说我们是{\c&H1907FF&}罪犯{\c}”
+Dialogue: 1,0:00:29.78,0:00:31.48,翻译 黑,翻译,0,0,0,,“好 我就是罪犯”
+Dialogue: 1,0:00:32.11,0:00:34.41,翻译 黑,翻译,0,0,0,,“我的罪孽是好奇”
+Dialogue: 1,0:00:34.94,0:00:38.43,翻译 黑,翻译,0,0,0,,“你们可以阻止我 但不能阻止我们”
+Dialogue: 1,0:00:40.21,0:00:41.20,翻译 黑,翻译,0,0,0,,“真酷”
+Dialogue: 1,0:00:42.20,0:00:43.67,翻译 黑,翻译,0,0,0,,我们继续说吧 黑客一共有三种
+Dialogue: 1,0:00:43.67,0:00:45.27,翻译 黑,翻译,0,0,0,,白帽——好人
+Dialogue: 1,0:00:45.27,0:00:47.23,翻译 黑,翻译,0,0,0,,灰帽——亦正亦邪
+Dialogue: 1,0:00:47.23,0:00:48.27,翻译 黑,翻译,0,0,0,,然后是黑帽——
+Dialogue: 1,0:00:48.81,0:00:50.82,翻译 黑,翻译,0,0,0,,纯纯的坏人
+Dialogue: 1,0:00:50.82,0:00:53.63,翻译 黑,翻译,0,0,0,,他们包括程序员、工程师、社会工程师
+Dialogue: 1,0:00:53.63,0:00:57.33,翻译 黑,翻译,0,0,0,,活动家、网络专家、诈骗犯
+Dialogue: 1,0:00:57.34,0:00:58.95,翻译 黑,翻译,0,0,0,,破解者和利用漏洞的人
+Dialogue: 1,0:00:58.95,0:01:01.21,翻译 黑,翻译,0,0,0,,有些人独来独往 有些人抱团行动
+Dialogue: 1,0:01:01.21,0:01:03.04,翻译 黑,翻译,0,0,0,,有些甚至为政府工作
+Dialogue: 1,0:01:04.21,0:01:05.75,翻译 黑,翻译,0,0,0,,我是说——在离开之前
+Dialogue: 1,0:01:05.75,0:01:06.79,翻译 黑,翻译,0,0,0,,他们是边缘人
+Dialogue: 1,0:01:06.79,0:01:08.04,翻译 黑,翻译,0,0,0,,是反社会的书呆子
+Dialogue: 1,0:01:08.04,0:01:10.30,翻译 黑,翻译,0,0,0,,是捣鼓电脑的失败者
+Dialogue: 1,0:01:10.31,0:01:12.95,翻译 黑,翻译,0,0,0,,但 他们也是从比特币中发家致富的人
+Dialogue: 1,0:01:12.95,0:01:15.67,翻译 黑,翻译,0,0,0,,是每年在拉斯维加斯举办疯狂派对的人
+Dialogue: 1,0:01:15.67,0:01:18.30,翻译 黑,翻译,0,0,0,,是创办了市值数十亿美元的科技公司的人
+Dialogue: 1,0:01:18.30,0:01:21.04,翻译 黑,翻译,0,0,0,,是从那些科技公司窃取数百万美元的人
+Dialogue: 1,0:01:21.38,0:01:23.94,翻译 黑,翻译,0,0,0,,他们是改变了世界的人
+Dialogue: 1,0:01:23.94,0:01:26.10,翻译 黑,翻译,0,0,0,,他们就是黑客
+Dialogue: 1,0:01:27.44,0:01:29.24,翻译 黑,翻译,0,0,0,,但 事情是怎么变成这样的？
+Dialogue: 1,0:01:34.24,0:01:37.46,翻译 黑,翻译,0,0,0,,我们的故事从这个时候开始
+Dialogue: 1,0:01:37.46,0:01:38.45,翻译 黑,翻译,0,0,0,,文化年代
+Dialogue: 1,0:01:44.64,0:01:46.19,翻译 黑,翻译,0,0,0,,在 20 世纪 60 年代早期
+Dialogue: 1,0:01:46.19,0:01:48.29,翻译 黑,翻译,0,0,0,,叛逆和变革的文化
+Dialogue: 1,0:01:48.30,0:01:52.38,翻译 黑,翻译,0,0,0,,深深扎根在麻省理工学院显赫辉煌的大厅中
+Dialogue: 1,0:01:52.59,0:01:55.99,翻译 黑,翻译,0,0,0,,黑客文化起源于学校里的 20 号楼
+Dialogue: 1,0:01:55.99,0:01:59.72,翻译 黑,翻译,0,0,0,,后来人们说这座建筑是“神奇的孵化器”
+Dialogue: 1,0:01:59.72,0:02:01.13,翻译 黑,翻译,0,0,0,,在建筑的三楼
+Dialogue: 1,0:02:01.13,0:02:05.33,翻译 黑,翻译,0,0,0,,你可以找到一个人满为患的教室
+Dialogue: 1,0:02:05.33,0:02:08.19,翻译 黑,翻译,0,0,0,,精心布置的模型轨道把房间塞得满满当当
+Dialogue: 1,0:02:08.56,0:02:13.60,翻译 黑,翻译,0,0,0,,这里就是麻省理工特有的技术模型铁路俱乐部的小窝
+Dialogue: 1,0:02:13.61,0:02:16.20,翻译 黑,翻译,0,0,0,,俱乐部里的小组分工合作
+Dialogue: 1,0:02:16.21,0:02:20.49,翻译 黑,翻译,0,0,0,,为实现模型机车的自动化控制共同奋斗
+Dialogue: 1,0:02:20.49,0:02:23.37,翻译 黑,翻译,0,0,0,,一些成员专注于复刻历史上的机车
+Dialogue: 1,0:02:23.37,0:02:25.05,翻译 黑,翻译,0,0,0,,一些负责环境和建筑
+Dialogue: 1,0:02:25.05,0:02:27.01,翻译 黑,翻译,0,0,0,,还有一个小组很特别
+Dialogue: 1,0:02:27.01,0:02:29.26,翻译 黑,翻译,0,0,0,,叫 信号和电力小组委员会
+Dialogue: 1,0:02:29.26,0:02:32.32,翻译 黑,翻译,0,0,0,,他们率先普及了下面这个术语
+Dialogue: 1,0:02:32.33,0:02:33.25,翻译 黑,翻译,0,0,0,,“黑客”
+Dialogue: 1,0:02:33.26,0:02:37.27,翻译 黑,翻译,0,0,0,,这个小组主要负责研发火车的控制电路
+Dialogue: 1,0:02:37.27,0:02:40.35,翻译 黑,翻译,0,0,0,,可以说 他们就是整个自动化背后的工程师
+Dialogue: 1,0:02:40.35,0:02:44.01,翻译 黑,翻译,0,0,0,,其中有一个叫做 Peter Samson 的成员
+Dialogue: 1,0:02:44.01,0:02:49.60,翻译 黑,翻译,0,0,0,,重点是 Peter 对电子学和自动化很着迷
+Dialogue: 1,0:02:49.60,0:02:52.81,翻译 黑,翻译,0,0,0,,而且他不断创新
+Dialogue: 1,0:02:52.81,0:02:56.89,翻译 黑,翻译,0,0,0,,领导着俱乐部建立新的铁路控制系统
+Dialogue: 1,0:02:58.60,0:03:01.20,翻译 黑,翻译,0,0,0,,他也是一个热爱探险的人
+Dialogue: 1,0:03:04.15,0:03:06.70,翻译 黑,翻译,0,0,0,,在命运之夜的凌晨两点左右
+Dialogue: 1,0:03:06.70,0:03:09.96,翻译 黑,翻译,0,0,0,,他在 26 号楼的地下室走廊中徘徊
+Dialogue: 1,0:03:09.96,0:03:11.55,翻译 黑,翻译,0,0,0,,寻找有趣的东西
+Dialogue: 1,0:03:11.55,0:03:15.87,翻译 黑,翻译,0,0,0,,他全然不知 这次夜间探索会有所发现
+Dialogue: 1,0:03:15.87,0:03:18.67,翻译 黑,翻译,0,0,0,,会让他进入创造的新领域
+Dialogue: 1,0:03:18.67,0:03:21.01,翻译 黑,翻译,0,0,0,,甚至会开创一种新的生活方式
+Dialogue: 1,0:03:21.50,0:03:26.25,翻译 黑,翻译,0,0,0,,进入标有“电子会计机房”的区域后
+Dialogue: 1,0:03:26.25,0:03:29.85,翻译 黑,翻译,0,0,0,,Peter 第一次看见了 IBM 704
+Dialogue: 1,0:03:29.85,0:03:34.22,翻译 黑,翻译,0,0,0,,那是一台价值百万美元的大型机 几乎塞满了整个房间
+Dialogue: 1,0:03:34.74,0:03:38.33,翻译 黑,翻译,0,0,0,,可 Peter 绝对不该出现在这里
+Dialogue: 1,0:03:38.33,0:03:41.11,翻译 黑,翻译,0,0,0,,白天房间里通常挤满了人
+Dialogue: 1,0:03:41.12,0:03:46.67,翻译 黑,翻译,0,0,0,,并且只有获得学校的官方安全许可的人 才能优先使用计算机
+Dialogue: 1,0:03:47.56,0:03:48.56,翻译 黑,翻译,0,0,0,,但是…
+Dialogue: 1,0:03:48.56,0:03:50.32,翻译 黑,翻译,0,0,0,,半夜两点根本没人在那里
+Dialogue: 1,0:03:50.72,0:03:53.07,翻译 黑,翻译,0,0,0,,和俱乐部的其他成员一起
+Dialogue: 1,0:03:53.07,0:03:56.75,翻译 黑,翻译,0,0,0,,Peter 经常在夜里潜入 26 号楼的地下室
+Dialogue: 1,0:03:56.75,0:04:00.19,翻译 黑,翻译,0,0,0,,使用机房里的计算机和其他设备
+Dialogue: 1,0:04:00.63,0:04:05.89,翻译 黑,翻译,0,0,0,,这些蔑视规定的行为标志着黑客文化的诞生 我们今日再熟悉不过了
+Dialogue: 1,0:04:05.89,0:04:09.13,翻译 黑,翻译,0,0,0,,能用机器的时间特别的 紧
+Dialogue: 1,0:04:09.13,0:04:09.93,翻译 黑,翻译,0,0,0,,额…
+Dialogue: 1,0:04:09.93,0:04:11.84,翻译 黑,翻译,0,0,0,,他们发现半夜是个好时机
+Dialogue: 1,0:04:11.84,0:04:14.27,翻译 黑,翻译,0,0,0,,可以潜入没上锁的机房做些事情
+Dialogue: 1,0:04:14.27,0:04:15.78,翻译 黑,翻译,0,0,0,,那些文科专业的学生
+Dialogue: 1,0:04:15.78,0:04:18.04,翻译 黑,翻译,0,0,0,,他们唯一能用电脑的方式就是
+Dialogue: 1,0:04:18.04,0:04:20.91,翻译 黑,翻译,0,0,0,,深夜里用口香糖撬锁然后偷偷溜进室内
+Dialogue: 1,0:04:20.91,0:04:22.78,翻译 黑,翻译,0,0,0,,因为他们没有资格申请使用电脑
+Dialogue: 1,0:04:22.78,0:04:28.98,翻译 黑,翻译,0,0,0,,那些系统地学习计算机软件开发的人
+Dialogue: 1,0:04:28.98,0:04:30.07,翻译 黑,翻译,0,0,0,,错失了天大的良机
+Dialogue: 1,0:04:30.07,0:04:33.86,翻译 黑,翻译,0,0,0,,那些违规的人在地下室不断试验
+Dialogue: 1,0:04:33.86,0:04:35.44,翻译 黑,翻译,0,0,0,,导致他们遥遥领先于学院派
+Dialogue: 1,0:04:37.33,0:04:41.44,翻译 黑,翻译,0,0,0,,接下来的几年里 俱乐部会继续钻研计算机技术
+Dialogue: 1,0:04:41.44,0:04:43.68,翻译 黑,翻译,0,0,0,,无论他们有没有许可
+Dialogue: 1,0:04:44.22,0:04:45.59,翻译 黑,翻译,0,0,0,,但老实说
+Dialogue: 1,0:04:45.59,0:04:48.51,翻译 黑,翻译,0,0,0,,打着火车模型的幌子当黑客
+Dialogue: 1,0:04:48.51,0:04:50.93,翻译 黑,翻译,0,0,0,,最多也只能做这些事了
+Dialogue: 1,0:04:50.93,0:04:56.25,翻译 黑,翻译,0,0,0,,后来 许多参加小组委员会的俱乐部成员
+Dialogue: 1,0:04:56.25,0:04:59.74,翻译 黑,翻译,0,0,0,,加入了麻省理工人工智能实验室
+Dialogue: 1,0:04:59.75,0:05:03.08,翻译 黑,翻译,0,0,0,,在实验室主任 Marvin Minsky 的指引中
+Dialogue: 1,0:05:03.08,0:05:05.49,翻译 黑,翻译,0,0,0,,这些早期黑客发现他是一位很支持他们的导师
+Dialogue: 1,0:05:07.08,0:05:11.93,翻译 黑,翻译,0,0,0,,Minsky 被他们的决心深深打动 允许他们直接使用机器
+Dialogue: 1,0:05:12.29,0:05:15.36,翻译 黑,翻译,0,0,0,,就这样，实验室成员开始工作了
+Dialogue: 1,0:05:15.36,0:05:18.23,翻译 黑,翻译,0,0,0,,麻省理工学院人工智能实验室有着诸多成就
+Dialogue: 1,0:05:18.23,0:05:20.30,翻译 黑,翻译,0,0,0,,其中就有《太空大战！》
+Dialogue: 1,0:05:20.31,0:05:24.58,翻译 黑,翻译,0,0,0,,这是最早的电子游戏之一，比《乓》早了十年
+Dialogue: 1,0:05:24.59,0:05:28.96,翻译 黑,翻译,0,0,0,,“这些星星是 Peter Samson 写的‘昂贵天文馆’里的一部分”
+Dialogue: 1,0:05:28.96,0:05:32.77,翻译 黑,翻译,0,0,0,,“它……”（笑声）
+Dialogue: 1,0:05:32.77,0:05:35.02,翻译 黑,翻译,0,0,0,,随着学校里那些远见人士的成功
+Dialogue: 1,0:05:35.02,0:05:37.31,翻译 黑,翻译,0,0,0,,以及 20 世纪 60 年代的到来
+Dialogue: 1,0:05:37.31,0:05:40.59,翻译 黑,翻译,0,0,0,,黑客思潮如野火一样蔓延
+Dialogue: 1,0:05:40.59,0:05:44.78,翻译 黑,翻译,0,0,0,,引燃了全美大学的创新中心
+Dialogue: 1,0:05:44.78,0:05:49.41,翻译 黑,翻译,0,0,0,,探索精神在卡内基梅隆和斯坦福这些学校里蓬勃发展
+Dialogue: 1,0:05:49.41,0:05:52.75,翻译 黑,翻译,0,0,0,,培养出了新一代的技术先锋
+Dialogue: 1,0:05:53.22,0:05:57.87,翻译 黑,翻译,0,0,0,,此时 黑客文化似乎还更多地局限于学术界
+Dialogue: 1,0:05:57.87,0:06:00.77,翻译 黑,翻译,0,0,0,,这种情况看上去好像还会持续一段时间
+Dialogue: 1,0:06:00.77,0:06:06.82,翻译 黑,翻译,0,0,0,,但再过不久 黑客文化就会催生出我们熟知的典中典之计科辍学了
+Dialogue: 1,0:06:07.37,0:06:08.49,翻译 黑,翻译,0,0,0,,一切
+Dialogue: 1,0:06:08.49,0:06:09.50,翻译 黑,翻译,0,0,0,,都从电话开始
+Dialogue: 1,0:06:14.14,0:06:16.13,翻译 黑,翻译,0,0,0,,“你也知道，Steve Jobs 从不会像你和我一样”
+Dialogue: 1,0:06:16.13,0:06:18.32,翻译 黑,翻译,0,0,0,,“他总是视角不同”
+Dialogue: 1,0:06:18.32,0:06:22.13,翻译 黑,翻译,0,0,0,,“Steve 和我发现了这个怪人 他也是整个伯克利的英雄”
+Dialogue: 1,0:06:22.45,0:06:24.82,翻译 黑,翻译,0,0,0,,“这么说是因为他找到了战胜系统的办法”
+Dialogue: 1,0:06:24.82,0:06:26.75,翻译 黑,翻译,0,0,0,,“这个人叫脆脆船长”
+Dialogue: 1,0:06:26.75,0:06:28.02,翻译 黑,翻译,0,0,0,,“因为他发现”
+Dialogue: 1,0:06:28.64,0:06:33.44,翻译 黑,翻译,0,0,0,,“在脆脆船长麦片包装盒中找到的这个小哨子”
+Dialogue: 1,0:06:33.44,0:06:36.61,翻译 黑,翻译,0,0,0,,“和 AT&T 的远距离通信设备有着一样的声音”
+Dialogue: 1,0:06:37.12,0:06:42.79,翻译 黑,翻译,0,0,0,,“所以你无论在哪里都可以免费打电话 用上我做的这个蓝盒子就行”
+Dialogue: 1,0:06:42.79,0:06:45.00,翻译 黑,翻译,0,0,0,,“然后我们打电话给罗马教宗测试了一下”
+Dialogue: 1,0:06:45.00,0:06:45.90,翻译 黑,翻译,0,0,0,,“你说两句”
+Dialogue: 1,0:06:45.90,0:06:48.30,翻译 黑,翻译,0,0,0,,“不对 他们没把电话给教宗吧？没给吧？”
+Dialogue: 1,0:06:48.30,0:06:51.99,翻译 黑,翻译,0,0,0,,脆脆船长 John Draper 给黑客文化带来了巨大的转变
+Dialogue: 1,0:06:51.99,0:06:54.51,翻译 黑,翻译,0,0,0,,他打开了“电话飞客”的新世界大门
+Dialogue: 1,0:06:54.51,0:06:55.85,翻译 黑,翻译,0,0,0,,吹吹玩具哨子
+Dialogue: 1,0:06:56.04,0:06:57.24,翻译 黑,翻译,0,0,0,,*哔—
+Dialogue: 1,0:06:57.25,0:06:59.81,翻译 黑,翻译,0,0,0,,Draper 和一大群人就骗过了电话公司
+Dialogue: 1,0:06:59.81,0:07:02.27,翻译 黑,翻译,0,0,0,,在世界各地免费打电话
+Dialogue: 1,0:07:02.27,0:07:06.53,翻译 黑,翻译,0,0,0,,Jobs 和 Wozniak 二人开始制造并派发之前说的蓝盒子的时候
+Dialogue: 1,0:07:06.53,0:07:10.95,翻译 黑,翻译,0,0,0,,黑客文化第一次受到主流媒体的关注
+Dialogue: 1,0:07:10.95,0:07:14.67,翻译 黑,翻译,0,0,0,,《时尚先生》杂志在 1971 年写了一篇文章介绍这件事情
+Dialogue: 1,0:07:14.67,0:07:15.92,翻译 黑,翻译,0,0,0,,在那一年
+Dialogue: 1,0:07:15.92,0:07:19.95,翻译 黑,翻译,0,0,0,,Abby Hoffman 那本如今臭名昭著的书也特别介绍了如何当飞客
+Dialogue: 1,0:07:19.95,0:07:21.01,翻译 黑,翻译,0,0,0,,那本书叫《偷走这本书》
+Dialogue: 1,0:07:21.01,0:07:24.13,翻译 黑,翻译,0,0,0,,需要澄清的是 飞客行为并不仅仅是为了免费打电话
+Dialogue: 1,0:07:24.13,0:07:26.30,翻译 黑,翻译,0,0,0,, 至少对于那时的黑客不是这样
+Dialogue: 1,0:07:26.30,0:07:29.05,翻译 黑,翻译,0,0,0,,当飞客意味着用新方式学习电话网络工作原理
+Dialogue: 1,0:07:29.05,0:07:30.78,翻译 黑,翻译,0,0,0,,做些无害的恶作剧
+Dialogue: 1,0:07:30.78,0:07:33.76,翻译 黑,翻译,0,0,0,,在成长中的亚文化里建立社群
+Dialogue: 1,0:07:33.76,0:07:35.02,翻译 黑,翻译,0,0,0,,有些情况下
+Dialogue: 1,0:07:35.44,0:07:38.14,翻译 黑,翻译,0,0,0,,就是单纯地找茬
+Dialogue: 1,0:07:38.97,0:07:41.95,翻译 黑,翻译,0,0,0,,坦然地讲 即使不说飞客的影响最为深远
+Dialogue: 1,0:07:41.95,0:07:46.98,翻译 黑,翻译,0,0,0,,那也是如今黑客文化极具影响力的一个侧面了
+Dialogue: 1,0:07:46.98,0:07:49.40,翻译 黑,翻译,0,0,0,,Steve Jobs 甚至这么说过
+Dialogue: 1,0:07:49.40,0:07:51.59,翻译 黑,翻译,0,0,0,,“如果没有 Wozniak 做的蓝盒子”
+Dialogue: 1,0:07:51.59,0:07:52.84,翻译 黑,翻译,0,0,0,,“就不会有苹果公司了”
+Dialogue: 1,0:07:53.32,0:07:55.74,翻译 黑,翻译,0,0,0,,之后我们还会谈到飞客
+Dialogue: 1,0:07:55.74,0:07:58.36,翻译 黑,翻译,0,0,0,,因为这么多年来它确实一直在发展
+Dialogue: 1,0:07:58.68,0:07:59.47,翻译 黑,翻译,0,0,0,,不过呢
+Dialogue: 1,0:07:59.84,0:08:02.08,翻译 黑,翻译,0,0,0,,现在还是回到计算机的话题吧
+Dialogue: 1,0:08:06.34,0:08:07.50,翻译 黑,翻译,0,0,0,,“今早有什么邮件？”
+Dialogue: 1,0:08:07.66,0:08:10.16,翻译 黑,翻译,0,0,0,,“这个看上去很有趣 我们看看吧”
+Dialogue: 1,0:08:10.16,0:08:11.88,翻译 黑,翻译,0,0,0,,“我需要几份这个文件的拷贝”
+Dialogue: 1,0:08:11.88,0:08:15.33,翻译 黑,翻译,0,0,0,,“你的电脑会有一个这样的电视屏幕 和一个键盘”
+Dialogue: 1,0:08:15.34,0:08:17.16,翻译 黑,翻译,0,0,0,,“然后你可以和电脑交流来获取一些信息”
+Dialogue: 1,0:08:17.16,0:08:19.35,翻译 黑,翻译,0,0,0,,“你会觉得这种行为理所当然 就像接电话一样”
+Dialogue: 1,0:08:19.35,0:08:22.47,翻译 黑,翻译,0,0,0,,“我好奇的是 从社会角度来看 那种生活是怎样的？”
+Dialogue: 1,0:08:23.28,0:08:25.02,翻译 黑,翻译,0,0,0,,“他们的生活全都围绕着电脑”
+Dialogue: 1,0:08:25.03,0:08:27.03,翻译 黑,翻译,0,0,0,,“我们会变成一个电脑依赖型社会吗？”
+Dialogue: 1,0:08:27.03,0:08:29.86,翻译 黑,翻译,0,0,0,,“某种程度上可以这么说 但电脑也会丰富我们的社会”
+Dialogue: 1,0:08:29.86,0:08:31.17,翻译 黑,翻译,0,0,0,,“这是一件很棒的事情”
+Dialogue: 1,0:08:31.17,0:08:33.02,翻译 黑,翻译,0,0,0,,随着 20 世纪 70 年代到来
+Dialogue: 1,0:08:33.02,0:08:36.07,翻译 黑,翻译,0,0,0,,计算机网络相互连接在了一起
+Dialogue: 1,0:08:36.07,0:08:40.38,翻译 黑,翻译,0,0,0,,阿帕网的兴起为探索和实验提供了新的领域
+Dialogue: 1,0:08:40.84,0:08:43.27,翻译 黑,翻译,0,0,0,,我尽量不说得太枯燥 但还是为那些不熟悉的人介绍一下
+Dialogue: 1,0:08:43.27,0:08:47.46,翻译 黑,翻译,0,0,0,,阿帕网是一种计算机网络 奠定了现代互联网的基础
+Dialogue: 1,0:08:47.46,0:08:49.22,翻译 黑,翻译,0,0,0,,它在 60 年代后期发明
+Dialogue: 1,0:08:49.22,0:08:53.01,翻译 黑,翻译,0,0,0,,基本都是研究机构和政府部门在使用
+Dialogue: 1,0:08:53.01,0:08:55.47,翻译 黑,翻译,0,0,0,,阿帕网在发展中定义了文件共享的方式
+Dialogue: 1,0:08:55.47,0:08:58.55,翻译 黑,翻译,0,0,0,,甚至被用来收发第一封电子邮件
+Dialogue: 1,0:08:58.55,0:09:00.24,翻译 黑,翻译,0,0,0,,阿帕网一开始的规模很小
+Dialogue: 1,0:09:00.24,0:09:03.68,翻译 黑,翻译,0,0,0,,但随着规模扩大 它很快变成了黑客的游乐场
+Dialogue: 1,0:09:03.68,0:09:06.94,翻译 黑,翻译,0,0,0,,他们渴望推动技术和通讯的发展
+Dialogue: 1,0:09:07.36,0:09:09.31,翻译 黑,翻译,0,0,0,,阿帕网也正正好好
+Dialogue: 1,0:09:09.31,0:09:11.54,翻译 黑,翻译,0,0,0,,成为了第一个被感染的计算机网络
+Dialogue: 1,0:09:12.18,0:09:19.13,翻译 黑,翻译,0,0,0,,1971 年 一位叫 Bob Thomas 的计算机科学家发明了公认的第一种计算机病毒
+Dialogue: 1,0:09:19.13,0:09:21.04,翻译 黑,翻译,0,0,0,,现在称其为“佝偻怪人”病毒
+Dialogue: 1,0:09:21.04,0:09:25.16,翻译 黑,翻译,0,0,0,,这个蠕虫病毒会自我复制 并通过阿帕网传染到其他电脑中
+Dialogue: 1,0:09:25.16,0:09:28.57,翻译 黑,翻译,0,0,0,,病毒是 Bob 在科研公司工作时开发的
+Dialogue: 1,0:09:28.57,0:09:30.25,翻译 黑,翻译,0,0,0,,和大多数的病毒不一样
+Dialogue: 1,0:09:30.25,0:09:32.63,翻译 黑,翻译,0,0,0,,它并没有任何恶意目的
+Dialogue: 1,0:09:32.63,0:09:34.98,翻译 黑,翻译,0,0,0,,这个病毒不会损害你的系统
+Dialogue: 1,0:09:34.98,0:09:36.81,翻译 黑,翻译,0,0,0,,只会显示一条信息
+Dialogue: 1,0:09:37.34,0:09:49.61,翻译 黑,翻译,0,0,0,,{\fad(0,6000)\pos(960,595.2)}{\k13\2c&H000000&\c&H0BEC00&\fnNoto Sans SC SemiBold\fs60}我{\k13}是{\k13}佝{\k13}偻{\k13}的{\k13}怪{\k13}人 {\k10}有{\k19}本{\k19}事{\k19}就{\k19}来{\k19}抓{\k19}我
+Dialogue: 1,0:09:41.00,0:09:42.24,翻译 黑,翻译,0,0,0,,这其实有点好笑
+Dialogue: 1,0:09:42.24,0:09:44.56,翻译 黑,翻译,0,0,0,,因为这种找了乐子惹了麻烦的行为
+Dialogue: 1,0:09:44.56,0:09:49.61,翻译 黑,翻译,0,0,0,,预示了黑客和安全专家之间持续至今的猫鼠游戏
+Dialogue: 1,0:09:50.73,0:09:56.88,翻译 黑,翻译,0,0,0,,20 世纪 70 年代是黑客们形成身份认同和信仰的转折点
+Dialogue: 1,0:09:56.88,0:10:00.65,翻译 黑,翻译,0,0,0,,人们开始口耳相传 聊些我们后来称为“自由软件运动”的事情
+Dialogue: 1,0:10:00.65,0:10:03.29,翻译 黑,翻译,0,0,0,,很多塑造了黑客文化的书也出版了
+Dialogue: 1,0:10:03.29,0:10:06.81,翻译 黑,翻译,0,0,0,,在这十年里甚至出现了叫做“黑话文档”的东西
+Dialogue: 1,0:10:06.81,0:10:11.04,翻译 黑,翻译,0,0,0,,就是黑客和程序员的俚语词典
+Dialogue: 1,0:10:11.04,0:10:15.64,翻译 黑,翻译,0,0,0,,正是这种东西进一步巩固了社群的共同语言和价值观
+Dialogue: 1,0:10:15.64,0:10:18.92,翻译 黑,翻译,0,0,0,,然而 此时整个文化社群还缺少一个东西
+Dialogue: 1,0:10:18.92,0:10:20.52,翻译 黑,翻译,0,0,0,,一个聚会中心
+Dialogue: 1,0:10:20.52,0:10:22.05,翻译 黑,翻译,0,0,0,,确实 当时已经有阿帕网了
+Dialogue: 1,0:10:22.05,0:10:26.56,翻译 黑,翻译,0,0,0,,但梅开二度 网络通常只有美国政府资助的机构才能使用
+Dialogue: 1,0:10:26.56,0:10:30.69,翻译 黑,翻译,0,0,0,,像“私酿计算机俱乐部”这样的线下聚会提供了一些上网的机会
+Dialogue: 1,0:10:30.85,0:10:34.54,翻译 黑,翻译,0,0,0,,但也只有能亲自参加聚会的人才可以接入网络
+Dialogue: 1,0:10:35.13,0:10:39.03,翻译 黑,翻译,0,0,0,,好消息是 再过不久这块空白就被填上了
+Dialogue: 1,0:10:39.03,0:10:40.27,翻译 黑,翻译,0,0,0,,1978 年
+Comment: 1,0:10:40.27,0:10:44.39,翻译 黑 带小字,翻译,0,0,0,karaoke,芝加哥来的两个人开发了一种叫做“{\k0}计算机布告栏系统|BBS{\k0}”的东西{\fs40}
+Dialogue: 1,0:10:44.39,0:10:47.35,翻译 黑,翻译,0,0,0,,用以充当早期黑客的第一个虚拟聚会场所
+Comment: 1,0:10:47.35,0:10:49.93,翻译 黑 带小字,翻译,0,0,0,karaoke,用户可以用{\k0}调制解调器|光猫{\k0}接入 BBS
+Dialogue: 1,0:10:49.93,0:10:53.58,翻译 黑,翻译,0,0,0,,交换信息、共享软件、参与讨论
+Dialogue: 1,0:10:53.58,0:10:57.70,翻译 黑,翻译,0,0,0,,这为即将流行的黑客小组奠定了基础
+Dialogue: 1,0:11:03.64,0:11:08.39,翻译 黑,翻译,0,0,0,,{\fad(0,1200)\c&HF5D9FF&\2c&H2A0038&}感谢收看！请期待下一集！
+Dialogue: 0,0:10:40.27,0:10:44.39,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(283,999)\an5}
+Dialogue: 0,0:10:40.27,0:10:44.39,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(670,999)\an5}芝加哥来的两个人开发了一种叫做“
+Dialogue: 0,0:10:40.27,0:10:44.39,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(1250,999)\an5}计算机布告栏系统
+Dialogue: 0,0:10:40.27,0:10:44.39,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(1540,999)\an5}”的东西
+Dialogue: 0,0:10:40.27,0:10:44.39,翻译 黑 带小字-furigana,翻译,0,0,0,fx,{\pos(1250,956)\an5}BBS
+Dialogue: 0,0:10:47.35,0:10:49.93,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(618,999)\an5}
+Dialogue: 0,0:10:47.35,0:10:49.93,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(738,999)\an5}用户可以用
+Dialogue: 0,0:10:47.35,0:10:49.93,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(980,999)\an5}调制解调器
+Dialogue: 0,0:10:47.35,0:10:49.93,翻译 黑 带小字,翻译,0,0,0,fx,{\pos(1202,999)\an5}接入 BBS
+Dialogue: 0,0:10:47.35,0:10:49.93,翻译 黑 带小字-furigana,翻译,0,0,0,fx,{\pos(980,956)\an5}光猫
